@@ -5,6 +5,8 @@ permalink: /teaching/
 author_profile: true
 ---
 
+<script src="/assets/js/scroll-to-top.js"></script>
+
 <style>
 /* Style for links with underlines and no color */
 a.underline {
@@ -42,27 +44,6 @@ h3 {
 
 <a href="#" class="move-to-top" id="moveToTop">Move to Top</a>
 
-<script>
-// Add event listener to scroll and show/hide the "Move to Top" link
-window.addEventListener('scroll', function() {
-  var moveToTopLink = document.getElementById('moveToTop');
-  if (window.scrollY > 200) {
-    moveToTopLink.classList.add('active');
-  } else {
-    moveToTopLink.classList.remove('active');
-  }
-});
-
-// Add function to scroll to the top when the link is clicked
-document.getElementById('moveToTop').addEventListener('click', function(e) {
-  e.preventDefault();
-  window.scrollTo({ top: 0, behavior: 'smooth' });
-});
-</script>
-
-# My Markdown Document
-
-<!-- Rest of your content -->
 
 
 
