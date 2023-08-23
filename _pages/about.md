@@ -35,12 +35,14 @@ Recent News
 
 * [**12/2022**][<span style="color:purple">service</span>]: Georgios serves on the TPC of International Symposium on Quality Electronic Design 2023 (ISQED'23).
 
+* [**11/2022**][<span style="color:Olive">talk</span>]: Georgios gave an invited talk at the <span style="color:SteelBlue">IEEE Seasonal School SMART-IC</span>, Thessaloniki, Greece, "**Machine Learning Classification On Printed Circuits**".
+
 * [**11/2022**][<span style="color:darkorange">paper</span>]: Our paper "**Hardware-Aware Automated Neural Minimization for Printed Multilayer Perceptrons**", a collaboration with <a href="https://cdnc.itec.kit.edu/" class="underline">CDNC</a> and <a href="https://ces.itec.kit.edu/ " class="underline">CES</a>, KIT, is accepted by <span style="color:SteelBlue">Design Automation and Test in Europe 2023 Conference (DATE'23)</span>.
 
 * [**11/2022**][<span style="color:purple">service</span>]: Georgios serves on the TPC of Design Automation and Test in Europe 2023 Conference (DATE'23). 
 
 * [**10/2022**][<span style="color:Olive">talk</span> + <span style="color:purple">service</span>]:
-  * Georgios gave an invited talk at the <span style="color:SteelBlue">International Conference on Computer-Aided Design 2022 (ICCAD'22)</span>, "**Extremely Resource Constrained ML Inference via Approximation and Codesign**".
+  * Georgios gave an invited talk at the <span style="color:SteelBlue">International Conference on Computer-Aided Design 2022 (ICCAD'22)</span>, San Diego, USA, "**Extremely Resource Constrained ML Inference via Approximation and Codesign**".
   * Georgios co-chairs the session "Accelerators on A New Horizon" at the International Conference on Computer-Aided Design 2022 (ICCAD'22).
 
 * [**9/2022**][<span style="color:darkorange">paper</span>]: Our paper "**AdaPT: Fast Emulation of Approximate DNN Accelerators in PyTorch**", a collaboration with <a href="https://ces.itec.kit.edu/" class="underline">CES</a>, KIT, is accepted by <span style="color:SteelBlue">Transactions on Computer-Aided Design of Integrated Circuits and Systems</span>.
