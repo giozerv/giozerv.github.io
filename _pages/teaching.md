@@ -54,7 +54,7 @@ h3 {
     1. [Design and Evaluation of a Vector Functional Unit](#design-and-evaluation-of-a-vector-functional-unit)
     1. [ARM DSU big.LITTLE Cluster Optimization](#arm-dsu-biglittle-cluster-optimization)
     1. [GPU profiling for AI language translation workload training](#gpu-profiling-for-ai-language-translation-workload-training)
-    1. [Containerized Edge AI](#containerized-edge-ai)
+    1. [Containerized Edge AI](#containerized-edge-ai) (several topics)
 - [Ongoing Dimploma Theses](#ongoing-dimploma-theses)
 - [Completed Dimploma Theses](#completed-dimploma-theses)
 
