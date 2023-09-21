@@ -62,7 +62,7 @@ h3 {
 ## Undergraduate Courses
 ### Winter semester
 
-* Digital Design Lab (), Compulsory, 3rd semester
+* [Digital Design Lab (CEID_23Y211)](https://www.ceid.upatras.gr/en/node/27360), Compulsory, 3rd semester
 * [Introduction to VLSI (CEID_ΝΕ4648)](https://www.ceid.upatras.gr/en/undergraduate/courses/introduction-vlsi), Core Elective, [eclass](https://eclass.upatras.gr/courses/CEID1256/)
 
 ### Summer Semester
