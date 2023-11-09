@@ -308,6 +308,11 @@ href="https://doi.org/10.1109/IOLTS.2013.6604081">10.1109/IOLTS.2013.6604081</a>
 <details>
 <summary><big><b>Books/Book Chapters</b></big></summary>
 
+<p><div class="csl-right-inline">G. Zervakis, M. B. Tahoori, and J. Henkel, “Hardware–Software Co-design for Ultra-Resource-Constrained Embedded Machine Learning Inference: A Printed Electronics Use Case,”
+in <em>Embedded Machine Learning for Cyber-Physical, IoT, and Edge Computing</em>,
+S. Pasricha and M. Shafique, Eds., Springer, Cham., 2024,
+pp. 201-224. doi: <a
+href="https://doi.org/10.1007/978-3-031-39932-9_8">10.1007/978-3-031-39932-9_8</a>.</div></p>
 <p><div class="csl-right-inline">G. Zervakis, I. Anagnostopoulos, H.
 Amrouch, and J. Henkel, “Enabling efficient inference of convolutional
 neural networks via approximation,” in <em>Approximate computing</em>,
