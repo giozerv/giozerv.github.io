@@ -21,9 +21,9 @@ Georgios Zervakis is an Assistant Professor at the [Department of Computer Engin
 
 Recent News
 ===
-* [**11/2023**][<span style="color:darkorange">paper</span>]: Our paper "**On-sensor Printed Machine Learning Classification via Bespoke ADC and Decision Tree Co-Design**", a collaboration with <a href="https://cdnc.itec.kit.edu/" class="underline">CDNC</a>, KIT, is accepted by <span style="color:SteelBlue">Design Automation and Test in Europe 2024 Conference (DATE'24)</span>.
-* 
-* [**11/2023**][<span style="color:darkorange">paper</span>]: Our paper "**Embedding Hardware Approximations in Discrete Genetic-based Training for Printed MLPs**", a collaboration with <a href="https://cdnc.itec.kit.edu/" class="underline">CDNC</a>, KIT, is accepted by <span style="color:SteelBlue">Design Automation and Test in Europe 2024 Conference (DATE'24)</span>.
+* [**11/2023**][<span style="color:darkorange">paper</span>]
+  * Our paper "**On-sensor Printed Machine Learning Classification via Bespoke ADC and Decision Tree Co-Design**", a collaboration with <a href="https://cdnc.itec.kit.edu/" class="underline">CDNC</a>, KIT, is accepted by <span style="color:SteelBlue">Design Automation and Test in Europe 2024 Conference (DATE'24)</span>.
+  * Our paper "**Embedding Hardware Approximations in Discrete Genetic-based Training for Printed MLPs**", a collaboration with <a href="https://cdnc.itec.kit.edu/" class="underline">CDNC</a>, KIT, is accepted by <span style="color:SteelBlue">Design Automation and Test in Europe 2024 Conference (DATE'24)</span>.
 
 * [**11/2023**][<span style="color:purple">service</span>]: Georgios serves on the TPC of Design Automation and Test in Europe 2024 Conference (DATE'24).
 
