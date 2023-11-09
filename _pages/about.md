@@ -21,7 +21,15 @@ Georgios Zervakis is an Assistant Professor at the [Department of Computer Engin
 
 Recent News
 ===
-[comment]:* **7/2023:** I am honored to be invited as member of the TPC for DATE 2024.
+* [**11/2023**][<span style="color:darkorange">paper</span>]: Our paper "**On-sensor Printed Machine Learning Classification via Bespoke ADC and Decision Tree Co-Design**", a collaboration with <a href="https://cdnc.itec.kit.edu/" class="underline">CDNC</a>, KIT, is accepted by <span style="color:SteelBlue">Design Automation and Test in Europe 2024 Conference (DATE'24)</span>.
+* 
+* [**11/2023**][<span style="color:darkorange">paper</span>]: Our paper "**Embedding Hardware Approximations in Discrete Genetic-based Training for Printed MLPs**", a collaboration with <a href="https://cdnc.itec.kit.edu/" class="underline">CDNC</a>, KIT, is accepted by <span style="color:SteelBlue">Design Automation and Test in Europe 2024 Conference (DATE'24)</span>.
+
+* [**11/2023**][<span style="color:purple">service</span>]: Georgios serves on the TPC of Design Automation and Test in Europe 2024 Conference (DATE'24).
+
+* [**10/2023**][<span style="color:GoldenRod">award</span> + <span style="color:purple">service</span>]:
+  * Georgios receives the **2023 IEEE ICCAD Inaugural Best Reviewer Award**, International Conference on Computer-Aided Design 2023, San Francisco, US. I feel really honored, thank you!
+  * Georgios Chairs the session "Hot Microarchitectures: Modeling and Design" at the International Conference on Computer-Aided Design 2023 (ICCAD'23).
 
 * [**7/2023**][<span style="color:green">funding</span>]: Our proposal, "AutoPNN: Automated Printed Neural Network via Software-Hardware Approximation and Codesign for Machine Learning Classification in Printed Electronics" is selected for funding by the Hellenic Foundation for Research & Innovation (**HFRI**) under the call "Basic Research Financing (Horizontal support for all Sciences), National Recovery and Resilience Plan (Greece 2.0)".
 
