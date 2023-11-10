@@ -218,11 +218,10 @@ href="https://doi.org/10.1109/DAC18074.2021.9586232">10.1109/DAC18074.2021.95862
 
 
 ## Ongoing Dimploma Theses
-
 * Ioannis Loudaros, "Approximate Multiplier for Neural Network Circuits"
 * Marios Alexandropoulos, "Analog Support Vector Machines on Printed Electronics"
-* Vassilis Milionis, "Multi-DNN UAV Tracking"
 
 
 ## Completed Dimploma Theses
+* Vassilis Milionis, "DNN-based UAV Tracking in AirSim," Oct. 2023, \[[online](https://nemertes.library.upatras.gr/items/d62e9ef4-e23c-4c8f-9593-020fa58270f5)\]
 * Panagiotis Papanikolaou, "Binary Neural Networks on Printed Electronics," Jul. 2023, \[[online](https://nemertes.library.upatras.gr/items/bac833a2-191d-492b-8235-a7c8d6e41687)\]
