@@ -156,7 +156,10 @@ href="https://doi.org/10.1109/TVLSI.2016.2535398">10.1109/TVLSI.2016.2535398</a>
 
 <details>
 <summary><big><b>Conferences</b></big></summary>
-
+<p><div class="csl-right-inline">F. Afentaki, G. Saglam, A. Kokkinis, K. Siozios, G. Zervakis and M. B. Tahoori,
+"Bespoke Approximation of Multiplication-Accumulation and Activation Targeting Printed Multilayer Perceptrons,"
+in <em>IEEE/ACM International Conference on Computer Aided Design (ICCAD)</em>, San Francisco, CA, USA, 2023, pp. 1-9,
+doi: <a href="https://doi.org/10.1109/ICCAD57390.2023.10323613">10.1109/ICCAD57390.2023.10323613</a>.</div></p>
 <p><div class="csl-right-inline">A. Kokkinis, G. Zervakis, K. Siozios,
 M. B. Tahoori, and J. Henkel, “Hardware-aware automated neural
 minimization for printed multilayer perceptrons,” in <em>Design,
