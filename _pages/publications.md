@@ -15,6 +15,9 @@ a.git {
 
 <details>
 <summary><big><b>Journals</b></big></summary>
+<p><div class="csl-right-inline">K. Balaskas, A. Karatzas, C. Sad, K. Siozios, I. Anagnostopoulos, G. Zervakis, and J. Henkel, “Hardware-Aware DNN Compression via Diverse Pruning and Mixed-Precision Quantization,” <em>IEEE Trans. Emerg. Top. Comput.</em>, pp. 1-1, 2024, doi: <a
+href="https://doi.org/10.1109/TETC.2023.3346944">10.1109/TETC.2023.3346944</a>.
+</div></p>
 <p><div class="csl-right-inline">G. Armeniakos, G. Zervakis, D. Soudris,
 M. B. Tahoori, and J. Henkel, “Model-to-Circuit Cross-Approximation For Printed Machine Learning Classifiers,” <em>IEEE Trans. Comput. Aided Des. Integr. Circuits Syst.</em>, pp. 1-1, 2023, doi: <a
 href="https://doi.org/10.1109/TCAD.2023.3258668">10.1109/TCAD.2023.3258668</a>. [<a href="https://github.com/garmeniakos/Ax-Printed-ML-Classifiers" class="git">github</a>]
