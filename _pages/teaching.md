@@ -218,10 +218,14 @@ href="https://doi.org/10.1109/DAC18074.2021.9586232">10.1109/DAC18074.2021.95862
 
 
 ## Ongoing Dimploma Theses
-* Ioannis Loudaros, "Approximate Multiplier for Neural Network Circuits"
-* Marios Alexandropoulos, "Analog Support Vector Machines on Printed Electronics"
+* Theofanis Vergos, "Architecture and approximation exploration for Feed Forward Equalizer Circuit".
+* Polykarpos Vergos, "Exploration of alternative algebras for race logic  architectures and  applications".
+* Ilias Sertaridis, "Design of approximate Printed Support Vector Machine classification circuits".
+* Spyridons Mpesias, "Design and modeling of printed Support Vector Machine classification circuits".
+* Ioannis Loudaros, "Approximate Multiplier for Neural Network Circuits".
+* Marios Alexandropoulos, "Analog Support Vector Machines on Printed Electronics".
 
 
 ## Completed Dimploma Theses
-* Vassilis Milionis, "DNN-based UAV Tracking in AirSim," Oct. 2023, \[[online](https://nemertes.library.upatras.gr/items/d62e9ef4-e23c-4c8f-9593-020fa58270f5)\]
-* Panagiotis Papanikolaou, "Binary Neural Networks on Printed Electronics," Jul. 2023, \[[online](https://nemertes.library.upatras.gr/items/bac833a2-191d-492b-8235-a7c8d6e41687)\]
+* Vassilis Milionis, "DNN-based UAV Tracking in AirSim," Oct. 2023, \[[online](https://nemertes.library.upatras.gr/items/d62e9ef4-e23c-4c8f-9593-020fa58270f5)\].
+* Panagiotis Papanikolaou, "Binary Neural Networks on Printed Electronics," Jul. 2023, \[[online](https://nemertes.library.upatras.gr/items/bac833a2-191d-492b-8235-a7c8d6e41687)\].
