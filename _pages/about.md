@@ -21,6 +21,12 @@ Georgios Zervakis is an Assistant Professor at the [Department of Computer Engin
 
 Recent News
 ===
+* [**2/2024**][<span style="color:darkorange">paper</span>]: Our paper "**Synthesis of Resource-Efficient Superconducting Circuits with Clock-Free Alternating Logic**", a collaboration with <a href="https://cse.engin.umich.edu/" class="underline">University of Michigan</a>, is accepted by <span style="color:SteelBlue">Design Automation Conference 2024 (DAC'24)</span>.
+
+* [**2/2024**][<span style="color:darkorange">paper</span>]: Our paper "**Fault Sensitivity Analysis of Printed Bespoke Multilayer Perceptron Classifiers**", a collaboration with <a href="https://cdnc.itec.kit.edu/" class="underline">CDNC</a>, KIT, is accepted by <span style="color:SteelBlue">European Test Symposium 2024 (ETS'24)</span>.
+
+* [**2/2024**][<span style="color:purple">service</span>]: Georgios serves on the TPC of Design Automation Conference 2024 (DAC'24).
+  
 * [**12/2023**][<span style="color:darkorange">paper</span>]: Our paper "**Hardware-Aware DNN Compression via Diverse Pruning and Mixed-Precision Quantization**", a collaboration with <a href="https://ces.itec.kit.edu/" class="underline">CES</a>, KIT, and <a href="https://siu.edu/" class="underline">SIU</a> is accepted by <span style="color:SteelBlue">Transactions on Emerging Topics in Computing</span>.
 
 * [**11/2023**][<span style="color:darkorange">paper</span>]:
