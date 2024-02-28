@@ -221,7 +221,7 @@ href="https://doi.org/10.1109/DAC18074.2021.9586232">10.1109/DAC18074.2021.95862
 * Theofanis Vergos, "Architecture and approximation exploration for Feed Forward Equalizer Circuit".
 * Polykarpos Vergos, "Exploration of alternative algebras for race logic  architectures and  applications".
 * Ilias Sertaridis, "Design of approximate Printed Support Vector Machine classification circuits".
-* Spyridons Mpesias, "Design and modeling of printed Support Vector Machine classification circuits".
+* Spyridon Mpesias, "Design and modeling of printed Support Vector Machine classification circuits".
 * Ioannis Loudaros, "Approximate Multiplier for Neural Network Circuits".
 * Marios Alexandropoulos, "Analog Support Vector Machines on Printed Electronics".
 
