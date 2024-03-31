@@ -23,7 +23,7 @@ Recent News
 ===
 * [**3/2024**][<span style="color:darkorange">paper</span>]: Our paper "**Late Breaking Results: Language-level QoR modeling for High-Level Synthesis**", a collaboration with <a href="https://microlab.ntua.gr/" class="underline">Microlab</a>, NTUA, is accepted by <span style="color:SteelBlue">Design Automation Conference 2024 (DAC'24)</span>.
 
-* [**3/2024**][<span style="color:purple">service</span>]: Georgios Chairs the session "FPGA Solutions" at the Design Automation and Test in Europe 2024 Conference (DATE'24)
+* [**3/2024**][<span style="color:purple">service</span>]: Georgios chairs the session "FPGA Solutions" at the Design Automation and Test in Europe 2024 Conference (DATE'24)
 
 * [**3/2024**][<span style="color:darkorange">paper</span>]: Our abstract "**Logic Synthesis of Resource-Efficient xSFQ Circuits with Mature Toolchains**", a collaboration with <a href="https://cse.engin.umich.edu/" class="underline">University of Michigan</a>, is accepted for oral presentation by <span style="color:SteelBlue">
 Applied Superconductivity Conference 2024 (ASC'24)</span>.
