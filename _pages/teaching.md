@@ -218,6 +218,8 @@ href="https://doi.org/10.1109/DAC18074.2021.9586232">10.1109/DAC18074.2021.95862
 
 
 ## Ongoing Dimploma Theses
+* Angelos Koumaniotis, "Verification methodologies improvements of Transmitter blocks in a very high speed Serdes context".
+* Nikolaos Kapareliotis, "Verification methodologies improvements of Receiver blocks in a very high speed Serdes context".
 * Theofanis Vergos, "Architecture and approximation exploration for Feed Forward Equalizer Circuit".
 * Polykarpos Vergos, "Exploration of alternative algebras for race logic  architectures and  applications".
 * Ilias Sertaridis, "Design of approximate Printed Support Vector Machine classification circuits".
