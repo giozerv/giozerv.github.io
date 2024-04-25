@@ -218,6 +218,7 @@ href="https://doi.org/10.1109/DAC18074.2021.9586232">10.1109/DAC18074.2021.95862
 
 
 ## Ongoing Dimploma Theses
+* Dimitrios Papathanasiou, "Evaluation and mitigation of aging effects in Neural Processing Units".
 * Angelos Koumaniotis, "Verification methodologies improvements of Transmitter blocks in a very high speed Serdes context".
 * Nikolaos Kapareliotis, "Verification methodologies improvements of Receiver blocks in a very high speed Serdes context".
 * Theofanis Vergos, "Architecture and approximation exploration for Feed Forward Equalizer Circuit".
