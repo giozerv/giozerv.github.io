@@ -21,6 +21,12 @@ Georgios Zervakis is an Assistant Professor at the [Department of Computer Engin
 
 Recent News
 ===
+* [**7/2024**][<span style="color:darkorange">paper</span>]: Our paper **"Reducing ADC Front-end Costs During Training of On-sensor Printed Multilayer Perceptrons"**, is accepted by <span style="color:SteelBlue"> IEEE Embedded Systems Letters, ESWEEK, CASES LBR 2024</span>.
+
+* [**6/2024**][<span style="color:darkorange">paper</span>]: Our paper **"Evolutionary Approximation of Ternary Neurons for On-sensor Printed Neural Networks"**, is accepted by <span style="color:SteelBlue"> IEEE/ACM International Conference on Computer-Aided Design 2024 (ICCAD'24)</span>. 
+
+* [**6/2024**][<span style="color:purple">service</span>]: Georgios serves on the TPC of International Conference on Computer-Aided Design 2024 (ICCAD'24).
+
 * [**3/2024**][<span style="color:darkorange">paper</span>]: Our paper "**Late Breaking Results: Language-level QoR modeling for High-Level Synthesis**", a collaboration with <a href="https://microlab.ntua.gr/" class="underline">Microlab</a>, NTUA, is accepted by <span style="color:SteelBlue">Design Automation Conference 2024 (DAC'24)</span>.
 
 * [**3/2024**][<span style="color:purple">service</span>]: Georgios chairs the session "FPGA Solutions" at the Design Automation and Test in Europe 2024 Conference (DATE'24)
