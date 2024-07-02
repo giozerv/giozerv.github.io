@@ -159,6 +159,18 @@ href="https://doi.org/10.1109/TVLSI.2016.2535398">10.1109/TVLSI.2016.2535398</a>
 
 <details>
 <summary><big><b>Conferences</b></big></summary>
+<p><div class="csl-right-inline">P. Pal, F. Afentaki, H. Zhao, G. Saglam, M. Hefenbrock, G. Zervakis, M. Beigl, M. B. Tahoori,
+"Fault Sensitivity Analysis of Printed Bespoke Multilayer Perceptron Classifiers,"
+in <em>IEEE European Test Symposium (ETS), The Hague, Netherlands, 2024</em>, pp. 1-6,
+doi: <a href="https://doi.org/10.1109/ETS61313.2024.10567964">10.1109/ETS61313.2024.10567964</a>. [<a href="https://github.com/PrintedElectronics/Fault_Sensitivity_Analysis" class="git">github</a>]</div></p>
+<p><div class="csl-right-inline">F. Afentaki, M. Hefenbrock, G. Zervakis and M. B. Tahoori,
+"Embedding Hardware Approximations in Discrete Genetic-Based Training for Printed MLPs,"
+in <em>Design, Automation & Test in Europe Conference & Exhibition (DATE), Valencia, Spain, 2024</em>, pp. 1-6.
+[<a href="https://ieeexplore.ieee.org/document/10546879">online</a>] [<a href="https://github.com/floAfentaki/Approximation-Techniques-Targeting-Printed-MLPs" class="git">github</a>]</div></p>  
+<p><div class="csl-right-inline">G. Armeniakos, P. L. Duarte, P. Pal, G. Zervakis, M. B. Tahoori and D. Soudris,
+"On-Sensor Printed Machine Learning Classification via Bespoke ADC and Decision Tree Co-Design,"
+in <em>Design, Automation & Test in Europe Conference & Exhibition (DATE), Valencia, Spain, 2024</em>, pp. 1-6.
+[<a href="https://ieeexplore.ieee.org/document/10546585">online</a>] [<a href="https://github.com/garmeniakos/Ax-Printed-ML-Classifiers" class="git">github</a>]</div></p>
 <p><div class="csl-right-inline">F. Afentaki, G. Saglam, A. Kokkinis, K. Siozios, G. Zervakis and M. B. Tahoori,
 "Bespoke Approximation of Multiplication-Accumulation and Activation Targeting Printed Multilayer Perceptrons,"
 in <em>IEEE/ACM International Conference on Computer Aided Design (ICCAD), San Francisco, CA, USA, 2023</em>, pp. 1-9,
