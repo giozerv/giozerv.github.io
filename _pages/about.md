@@ -21,6 +21,10 @@ Georgios Zervakis is an Assistant Professor at the [Department of Computer Engin
 
 Recent News
 ===
+* [**11/2023**][<span style="color:darkorange">paper</span>]:
+  * Our paper "**Design and In-training Optimization of Binary Search ADC for Flexible Classifiers**", is accepted by <span style="color:SteelBlue">Asia and South Pacific Design Automation Conference 2025 (ASP-DAC 2025)</span>.
+  * Our paper "**Sequential Printed Multilayer Perceptron Circuits for Super-TinyML Multi-Sensory Applications**", is accepted by <span style="color:SteelBlue">Asia and South Pacific Design Automation Conference 2025 (ASP-DAC 2025)</span>.
+
 * [**7/2024**][<span style="color:darkorange">paper</span>]: Our paper **"Reducing ADC Front-end Costs During Training of On-sensor Printed Multilayer Perceptrons"**, is accepted by <span style="color:SteelBlue"> IEEE Embedded Systems Letters, ESWEEK, CASES LBR 2024</span>.
 
 * [**6/2024**][<span style="color:darkorange">paper</span>]: Our paper **"Evolutionary Approximation of Ternary Neurons for On-sensor Printed Neural Networks"**, is accepted by <span style="color:SteelBlue"> IEEE/ACM International Conference on Computer-Aided Design 2024 (ICCAD'24)</span>. 
