@@ -175,47 +175,6 @@ Engineering, with a strong understanding of Computer Architecture, Microarchitec
 Proficiency in C, Python, SystemVerilog/VHDL, and RTL simulation is necessary.<br>
 **Type of work**: This role is designed to enrich your learning while providing hands-on experience. As such, the work is divided into 25% literature study to enhance your theoretical knowledge and 75% hands-on RTL development and physical design to immerse you in practical, innovative solutions.
 
-### ARM DSU big.LITTLE Cluster Optimization
-
-In this diploma thesis you will participate in the design and implementation of an Arm DSU big.LITTLE cluster, employing Arm HP as the big and Arm HD as the LITTLE. Responsibilities include defining realistic workloads and benchmarks for the cluster, developing and optimizing compiler configurations for efficient workload mapping onto the big and LITTLE cores. Our current toolchain supports single Processing Element (PE), big or LITTLE, simulation, and we aspire to handle more complex workloads on both big and LITTLE cores.<br>
-This diploma thesis is in collaboration with [IMEC](https://www.imec-int.com/en), Belgium, and includes the possibility of an associated internship. More details can regarding this topic can be found [here](https://www.imec-int.com/en/work-at-imec/job-opportunities/ppact-evaluation-vector-functional-unit).
-
-**Required background**: We are seeking candidates with a background in Electronics/Computer Engineering, possessing a robust understanding of Computer Architecture and Embedded Systems. Proficiency in C, Python, Cross-compilation, SystemVerilog/VHDL, RTL simulation, and Post-synthesis analysis is necessary. Experience with ARM IP development will be considered a plus.<br>
-**Type of work**: This role enriches your learning experience, providing a blend of theoretical knowledge and practical application. The work is divided into 25% literature study to enhance theoretical comprehension and 75% hands-on digital design.
-
-### GPU profiling for AI language translation workload training
-
-As part of this work, the candidate will be understanding large language models (LLM) and execute such models to realize the deeper insight of GPU resources utilization. The data from profiling tools can then be used with analytical/cycle accurate simulator tools to estimate the computation cost of such model’s at large scale. Understanding these parameters from the profiling tools will be used later insight on impact of GPU architecture for certain workloads which can then be used to upgrade analytical tools.<br>
-This diploma thesis is in collaboration with [IMEC](https://www.imec-int.com/en), Belgium, and includes the possibility of an associated internship. More details can regarding this topic can be found [here](https://www.imec-int.com/en/work-at-imec/job-opportunities/gpu-profiling-ai-language-translation-workload-training).
-
-
-**Required background**: Computer science, parallel computing on cluster, GPU system level architecture, programming (C++/Python/CUDA).<br>
-**Type of work**: 30% literature, 70% modelling
-
-### Containerized Edge AI
-<img style="float: right;" width= "450px" src="/images/edgeai.png">
-Embedded Machine Learning (ML) constitutes a phenomenally fast-growing field that comprises ML algorithms, hardware, and software, capable of performing on-device sensor data analyses at extremely low power, enabling thus several always-on and battery-powered applications and services [1]. Running ML-based applications on embedded edge devices is attracting a vast interest for manifold reasons such as accessibility, privacy, latency, and security.
-
-AI technologies have broadened from a centralized fashion to mobile or distributed fashion, opening a new era called edge AI, with dramatic advancements that are substantially changing everyday technology, social behavior, and lifestyles [2]. Today, edge AI is employed across all sectors. Servers installed on airplanes, in stores, and within factories promptly respond to IoT sensors in real-time. These servers forecast weather, thwart theft, and ensure manufacturing quality. AI imparts functionality to sensor data. Trained AI models recognize patterns and initiate responses. A trained AI model represents a company’s business intelligence [3]. The mandatory requirement of embedded ML for energy efficiency but also low latency as well as to retain accuracy in acceptable levels, leads to cross-/co- optimization of the software and hardware stack.
-
-The devices that span these major domains are a heterogeneous mix of devices including sensors, monitoring devices, and edge processors, as well as different levels of edge servers, gateways, base stations, and cloud servers [2]. They can be categorized by their main computing class, and the dominant types are CPU-based, GPU-based, FPGAbased, and ASIC-based. Edge AI is cloud native. Most AI applications are containerized microservices and <a href="https://kubernetes.io/" class="underline">Kubernetes</a> is the unofficial standard for container orchestration. A recent report on The State of Cloud Native Development [4], highlighted that "…developers working on edge computing have the highest usage for both containers and Kubernetes" with 76% of edge AI applications using containers and 63% using Kubernetes [5]. 
-
-In this diploma thesis you will primarily focus on researching the containerized Edge-AI and setup and deploy a Kubernetes-based Edge-AI cluster on the available devices. The offered topics in this research area include, but are not limited to, profiling the overhead of virtualization and orchestration, develop containerized GPU-based edge applications, as well as deduce novel ML-based mechanisms for energy-aware node and cluster management. References [1-6] provide a good read for this research area. During this thesis you will be able to use real hardware (with the associated limitations) and familiarize yourselves with virtualization and Kubernetes.
-
-
-**Required background**: We are seeking candidates with a background in Electronic/Computer Engineering, with a good understanding Linux. A working knowledge of bash scripting and Python is necessary. Familiarity with versioning software, CUDA, and Machine Learning is highly appreciated. <br>
-**Type of work**: This role is designed to enrich your learning while providing hands-on experience. As such, the work is divided into 30% literature study to enhance your theoretical knowledge and 70% hands-on development. 
-
-*References* <br>
-[1] M. Shafique, T. Theocharides, V. J. Reddy and B. Murmann, "TinyML: Current Progress, Research Challenges, and Future Roadmap," <em>58th ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, USA, 2021,</em> pp. 1303-1306, doi: <a
-href="https://doi.org/10.1109/DAC18074.2021.9586232">10.1109/DAC18074.2021.9586232</a>.<br>
-[2] C. Hao, J. Dotzel, J. Xiong, L. Benini, Z. Zhang and D. Chen, "Enabling Design Methodologies and Future Trends for Edge AI: Specialization and Codesign," in <em>IEEE Design & Test</em>, vol. 38, no. 4, pp. 7-26, Aug. 2021, doi: <a href="https://doi.org/10.1109/MDAT.2021.3069952">10.1109/MDAT.2021.3069952</a>.<br>
-[3] J. Liberman, "The Need for Speed: Edge AI with NVIDIA GPUs and SmartNICs", \[[online](https://developer.nvidia.com/blog/the-need-for-speed-edge-ai-with-nvidia-gpus-and-smartnics-part-1/)\]<br>
-[4] The State of Cloud Native Development, \[[online](https://www.cncf.io/wp-content/uploads/2021/12/Q1-2021-State-of-Cloud-Native-development-FINAL.pdf)\]<br>
-[5] T. Yeung, "AI is Changing How Enterprises Manage Edge Applications", \[[online](https://developer.nvidia.com/blog/ai-is-changing-how-enterprises-manage-edge-applications/)\]<br>
-[6] K. Kaur, S. Garg, G. Kaddoum, S. H. Ahmed and M. Atiquzzaman, "KEIDS: Kubernetes-Based Energy and Interference Driven Scheduler for Industrial IoT in Edge-Cloud Ecosystem," in <em>IEEE Internet of Things Journal</em>, vol. 7, no. 5, pp. 4228-4237, May 2020, doi: <a href="https://doi.org/10.1109/JIOT.2019.2939534">10.1109/JIOT.2019.2939534</a>.<br>
-
-
 
 ## Ongoing Dimploma Theses
 * Dimitrios Papathanasiou, "Evaluation and mitigation of aging effects in Neural Processing Units".
