@@ -31,6 +31,8 @@ Recent News
 
 * [**6/2024**][<span style="color:purple">service</span>]: Georgios serves on the TPC of International Conference on Computer-Aided Design 2024 (ICCAD'24).
 
+* [**3/2024**][<span style="color:Teal">talk</span>]: Georgios gave an invited talk at the <span style="color:SteelBlue">Synopsys Academic & Research Alliances (SARA) Speaker Series</span>, Online, "**Printed Intelligence: Design Automation and Computing of Machine Learning Circuits in Additive Printed Electronics**".
+
 * [**3/2024**][<span style="color:darkorange">paper</span>]: Our paper "**Late Breaking Results: Language-level QoR modeling for High-Level Synthesis**", a collaboration with <a href="https://microlab.ntua.gr/" class="underline">Microlab</a>, NTUA, is accepted by <span style="color:SteelBlue">Design Automation Conference 2024 (DAC'24)</span>.
 
 * [**3/2024**][<span style="color:purple">service</span>]: Georgios chairs the session "FPGA Solutions" at the Design Automation and Test in Europe 2024 Conference (DATE'24)
