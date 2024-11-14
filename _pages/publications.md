@@ -177,8 +177,8 @@ in <em>Design, Automation & Test in Europe Conference & Exhibition (DATE), Valen
 doi: <a href="https://doi.org/10.23919/DATE58400.2024.10546879">10.23919/DATE58400.2024.10546879</a>. [<a href="https://github.com/floAfentaki/Approximation-Techniques-Targeting-Printed-MLPs" class="git">github</a>]</div></p>  
 <p><div class="csl-right-inline">G. Armeniakos, P. L. Duarte, P. Pal, G. Zervakis, M. B. Tahoori and D. Soudris,
 "On-Sensor Printed Machine Learning Classification via Bespoke ADC and Decision Tree Co-Design,"
-in <em>Design, Automation & Test in Europe Conference & Exhibition (DATE), Valencia, Spain, 2024</em>, pp. 1-6.
-[<a href="https://ieeexplore.ieee.org/document/10546585">online</a>] [<a href="https://github.com/garmeniakos/Ax-Printed-ML-Classifiers" class="git">github</a>]</div></p>
+in <em>Design, Automation & Test in Europe Conference & Exhibition (DATE), Valencia, Spain, 2024</em>, pp. 1-6,
+doi: <a href="https://doi.org/10.23919/DATE58400.2024.10546585">10.23919/DATE58400.2024.10546585</a>. [<a href="https://github.com/garmeniakos/Ax-Printed-ML-Classifiers" class="git">github</a>]</div></p>
 <p><div class="csl-right-inline">F. Afentaki, G. Saglam, A. Kokkinis, K. Siozios, G. Zervakis and M. B. Tahoori,
 "Bespoke Approximation of Multiplication-Accumulation and Activation Targeting Printed Multilayer Perceptrons,"
 in <em>IEEE/ACM International Conference on Computer Aided Design (ICCAD), San Francisco, CA, USA, 2023</em>, pp. 1-9,
