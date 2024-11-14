@@ -21,6 +21,9 @@ Georgios Zervakis is an Assistant Professor at the [Department of Computer Engin
 
 Recent News
 ===
+
+* [**11/2024**][<span style="color:purple">service</span>]: Georgios serves on the TPC of Design Automation and Test in Europe 2025 Conference (DATE'25).
+
 * [**9/2024**][<span style="color:darkorange">paper</span>]:
   * Our paper "**Design and In-training Optimization of Binary Search ADC for Flexible Classifiers**", is accepted by <span style="color:SteelBlue">Asia and South Pacific Design Automation Conference 2025 (ASP-DAC 2025)</span>.
   * Our paper "**Sequential Printed Multilayer Perceptron Circuits for Super-TinyML Multi-Sensory Applications**", is accepted by <span style="color:SteelBlue">Asia and South Pacific Design Automation Conference 2025 (ASP-DAC 2025)</span>.
