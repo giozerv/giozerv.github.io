@@ -159,6 +159,14 @@ href="https://doi.org/10.1109/TVLSI.2016.2535398">10.1109/TVLSI.2016.2535398</a>
 
 <details>
 <summary><big><b>Conferences</b></big></summary>
+<p><div class="csl-right-inline">J. Volk, P. Papanikolaou, G. Zervakis, G. Tzimpragos,
+"Synthesis of Resource-Efficient Superconducting Circuits with Clock-Free Alternating Logic,"
+in <em>Design Automation Conference (DAC '24), New York, NY, USA, 2024</em>, pp. 1-6,
+doi: <a href="https://doi.org/10.1145/3649329.3657376">10.1145/3649329.3657376</a>. </div></p>
+<p><div class="csl-right-inline">D. Masouros, A. Ferikoglou, G. Zervakis, S. Xydis, D. Soudris,
+"Late Breaking Results: Language-level QoR modeling for High-Level Synthesis,"
+in <em>Design Automation Conference (DAC '24), New York, NY, USA, 2024</em>, pp. 1-6,
+doi: <a href="https://doi.org/10.1145/3649329.3663500">10.1145/3649329.3663500</a>. </div></p>  
 <p><div class="csl-right-inline">P. Pal, F. Afentaki, H. Zhao, G. Saglam, M. Hefenbrock, G. Zervakis, M. Beigl, M. B. Tahoori,
 "Fault Sensitivity Analysis of Printed Bespoke Multilayer Perceptron Classifiers,"
 in <em>IEEE European Test Symposium (ETS), The Hague, Netherlands, 2024</em>, pp. 1-6,
