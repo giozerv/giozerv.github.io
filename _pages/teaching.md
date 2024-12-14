@@ -178,8 +178,8 @@ href="https://doi.org/10.1109/DAC18074.2021.9586232">10.1109/DAC18074.2021.95862
 
 
 **Required background**: We are seeking candidates with a background in Electronic/Computer
-Engineering, with a strong understanding of Computer Architecture, Microarchitecture/ISA, and hardware design. 
-Proficiency in C, Python, and C/C++ or Verilog and RTL simulation is necessary.<br>
+Engineering, with a strong understanding of Computer Architecture, Microarchitecture/ISA, and/or Hardware Design. 
+Proficiency in Python, and either C/C++ or Verilog and RTL simulation is necessary.<br>
 **Type of work**: This role is designed to enrich your learning while providing hands-on experience. As such, the work is divided into 25% literature study to enhance your theoretical knowledge and 75% hands-on RTL development or C development depending on the end platform (i.e., MCU or FPGA).
 
 
