@@ -51,6 +51,7 @@ h3 {
 - [Available Dimploma Theses](#available-dimploma-theses)
     1. [Approximate DNN Accelerators](#approximate-dnn-accelerators) (several topics)
     1. [Smart Flexible Circuits](#smart-flexible-circuits) (several topics)
+    1. [TinyML on Tiny Devices](#tinyml-on-tiny-devices) (several topics)
     1. [Design and Evaluation of a Vector Functional Unit](#design-and-evaluation-of-a-vector-functional-unit)
 - [Ongoing Dimploma Theses](#ongoing-dimploma-theses)
 - [Completed Dimploma Theses](#completed-dimploma-theses)
@@ -161,6 +162,26 @@ clara, CA, USA, april 6-7, 2022</em>, IEEE, 2022, pp. 1–6. doi: <a
 href="https://doi.org/10.1109/ISQED54688.2022.9806213">10.1109/ISQED54688.2022.9806213</a>. <br>
 [7] K. Iordanou, T. Atkinson, E. Ozer, J. Kufel, J. Biggs, G. Brown, and M. Lujan, "Tiny Classifier Circuits: Evolving Accelerators for Tabular Data," in <em>arXiv</em>, 2023, doi: <a
 href="https://doi.org/10.48550/arXiv.2303.00031">10.48550/arXiv.2303.00031</a>.
+
+### TinyML on Tiny Devices
+
+From smart home applications to healthcare moni-toring, the proliferation of Artificial Intelligence (AI) in everyday applications has sparked an unprece-dented demand for devices capable of performing complex Machine Learning (ML) algorithms, leading to increased costs and energy consumption. Ti-nyML has emerged as a promising alternative to large-scale AI, bringing computations closer to the edge, thus enabling secure, private, and near-instant responses at low power.
+
+At the same time, embedded IoT devices based on power-efficient hardware, such as low-cost micro-controller units (MCUs), have recently skyrocketed in popularity, with the market expected to reach 1 trillion by 2035. While these devices are an ideal platform for TinyML, they come with their own set of challenges, namely, strict power and memory budgets. To deploy complex Deep Neural Networks (DNNs) with an ever-increasing number of parame-ters and meet the demands imposed by energy-efficient and resource-constrained devices, there is a pressing need to explore new optimization ave-nues for DNNs. 
+
+The focus of this Thesis will be the application of hardware and software co-optimizations to deploy a DNN application on a highly embedded system un-der strict power and memory budgets. Methods such as, software optimizations, compression methods or even approximate computing can be employed with the end goal of achieving latency, power, and memory usage im-provements. A vast selection of open-source frameworks is available to facilitate the deployment of these DNNs. Popular machine learning frame-works such as Tensorflow can be used alongside libraries like CMSIS-NN and evaluated state of the art benchmarks (MLPerfTiny). Over the course of this Thesis, the student will become familiar with recent advances in the field of TinyML and gain in-sights into the interplay between hardware and software when deploying DNNs on tiny devices baced on MCUs (e.g., SMT32 Nucleo Boards) or FPGAs (e.g., Lattice FPGAs or Xilinx Zybo).
+
+*References* <br>
+[1] M. Shafique, T. Theocharides, V. J. Reddy and B. Murmann, "TinyML: Current Progress, Research Challenges, and Future Roadmap," in <em>58th ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, USA, 2021, pp. 1303-1306,</em> doi: <a
+href="https://doi.org/10.1109/DAC18074.2021.9586232">10.1109/DAC18074.2021.9586232</a>. <br>
+[2] [Introduction to the Special Issue on tinyML](https://dl.acm.org/doi/full/10.1145/3658375).
+
+
+**Required background**: We are seeking candidates with a background in Electronic/Computer
+Engineering, with a strong understanding of Computer Architecture, Microarchitecture/ISA, and hardware design. 
+Proficiency in C, Python, and C/C++ or Verilog and RTL simulation is necessary.<br>
+**Type of work**: This role is designed to enrich your learning while providing hands-on experience. As such, the work is divided into 25% literature study to enhance your theoretical knowledge and 75% hands-on RTL development or C development depending on the end platform (i.e., MCU or FPGA).
+
 
 ### Design and Evaluation of a Vector Functional Unit
 
