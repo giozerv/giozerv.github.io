@@ -22,6 +22,9 @@ Georgios Zervakis is an Assistant Professor at the [Department of Computer Engin
 Recent News
 ===
 
+* [**12/2024**][<span style="color:darkorange">paper</span>]: Our paper "**Enabling Printed Multilayer Perceptrons Realization via Area-Aware Neural Minimization**" is accepted by <span style="color:SteelBlue">Transactions on Computers</span>.
+
+
 * [**11/2024**][<span style="color:purple">service</span>]: Georgios serves on the TPC of Design Automation and Test in Europe 2025 Conference (DATE'25).
 
 * [**9/2024**][<span style="color:darkorange">paper</span>]:
