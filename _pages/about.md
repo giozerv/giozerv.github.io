@@ -22,6 +22,10 @@ Georgios Zervakis is an Assistant Professor at the [Department of Computer Engin
 Recent News
 ===
 
+* [**1/2025**][<span style="color:darkorange">paper</span>]:
+  * Our paper "**Late Breaking Results: Leveraging Approximate Computing for Carbon-Aware DNN Accelerators**", is accepted by <span style="color:SteelBlue">Design Automation and Test in Europe 2025 Conference (DATE'25)</span>.
+  * Our paper "**Late Breaking Results: Energy-Efficient Printed Machine Learning Classifiers with Sequential SVMs**", is accepted by <span style="color:SteelBlue">Design Automation and Test in Europe 2025 Conference (DATE'25)</span>.
+
 * [**12/2024**][<span style="color:darkorange">paper</span>]: Our paper "**Enabling Printed Multilayer Perceptrons Realization via Area-Aware Neural Minimization**" is accepted by <span style="color:SteelBlue">Transactions on Computers</span>.
 
 
