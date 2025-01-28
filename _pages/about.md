@@ -26,6 +26,8 @@ Recent News
   * Our paper "**Compact Yet Highly Accurate Printed Classifiers Using Sequential Support Vector Machine Circuits**", is accepted by <span style="color:SteelBlue">IEEE International Symposium on Circuits and Systems 2025 (ISCAS2025)</span>.
   * Our paper "**Approximate Multiplier Mapping for Unfairness Mitigation in Energy-Efficient DNNs**", is accepted by <span style="color:SteelBlue">IEEE International Symposium on Circuits and Systems 2025 (ISCAS2025)</span>.
   * Our paper "**Leveraging Image Difficulty for Run-Time Adaptive DNN Inference on Embedded Devices**", is accepted by <span style="color:SteelBlue">IEEE International Symposium on Circuits and Systems 2025 (ISCAS2025)</span>.
+ 
+* [**1/2025**][<span style="color:purple">service</span>]: Georgios chairs the session "Neuromorphic and Emerging Computing Techniques" at the Asia and South Pacific Design Automation Conference 2025 (ASP-DAC 2025).
 
 * [**1/2025**][<span style="color:darkorange">paper</span>]: Our paper **"Function Approximation Using Analog Building Blocks in Flexible Electronics"**, is accepted by <span style="color:SteelBlue">International Symposium on Quality Electronic Design 2025 (ISQED'25)</span>.
 
@@ -52,7 +54,7 @@ Recent News
 
 * [**3/2024**][<span style="color:darkorange">paper</span>]: Our paper "**Late Breaking Results: Language-level QoR modeling for High-Level Synthesis**", a collaboration with <a href="https://microlab.ntua.gr/" class="underline">Microlab</a>, NTUA, is accepted by <span style="color:SteelBlue">Design Automation Conference 2024 (DAC'24)</span>.
 
-* [**3/2024**][<span style="color:purple">service</span>]: Georgios chairs the session "FPGA Solutions" at the Design Automation and Test in Europe 2024 Conference (DATE'24)
+* [**3/2024**][<span style="color:purple">service</span>]: Georgios chairs the session "FPGA Solutions" at the Design Automation and Test in Europe 2024 Conference (DATE'24).
 
 * [**3/2024**][<span style="color:darkorange">paper</span>]: Our abstract "**Logic Synthesis of Resource-Efficient xSFQ Circuits with Mature Toolchains**", a collaboration with <a href="https://cse.engin.umich.edu/" class="underline">University of Michigan</a>, is accepted for oral presentation by <span style="color:SteelBlue">
 Applied Superconductivity Conference 2024 (ASC'24)</span>.
