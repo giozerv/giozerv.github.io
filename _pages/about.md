@@ -23,6 +23,13 @@ Recent News
 ===
 
 * [**1/2025**][<span style="color:darkorange">paper</span>]:
+  * Our paper "**Compact Yet Highly Accurate Printed Classifiers Using Sequential Support Vector Machine Circuits**", is accepted by <span style="color:SteelBlue">IEEE International Symposium on Circuits and Systems 2025 (ISCAS2025)</span>.
+  * Our paper "**Approximate Multiplier Mapping for Unfairness Mitigation in Energy-Efficient DNNs**", is accepted by <span style="color:SteelBlue">IEEE International Symposium on Circuits and Systems 2025 (ISCAS2025)</span>.
+  * Our paper "**Leveraging Image Difficulty for Run-Time Adaptive DNN Inference on Embedded Devices**", is accepted by <span style="color:SteelBlue">IEEE International Symposium on Circuits and Systems 2025 (ISCAS2025)</span>.
+
+* [**1/2025**][<span style="color:darkorange">paper</span>]: Our paper **"Function Approximation Using Analog Building Blocks in Flexible Electronics"**, is accepted by <span style="color:SteelBlue">International Symposium on Quality Electronic Design 2025 (ISQED'25)</span>.
+
+* [**1/2025**][<span style="color:darkorange">paper</span>]:
   * Our paper "**Late Breaking Results: Leveraging Approximate Computing for Carbon-Aware DNN Accelerators**", is accepted by <span style="color:SteelBlue">Design Automation and Test in Europe 2025 Conference (DATE'25)</span>.
   * Our paper "**Late Breaking Results: Energy-Efficient Printed Machine Learning Classifiers with Sequential SVMs**", is accepted by <span style="color:SteelBlue">Design Automation and Test in Europe 2025 Conference (DATE'25)</span>.
 
