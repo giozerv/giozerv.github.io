@@ -22,6 +22,8 @@ Georgios Zervakis is an Assistant Professor at the [Department of Computer Engin
 Recent News
 ===
 
+* [**2/2025**][<span style="color:darkorange">paper</span>]: Our Special Seesion Proposal **"Printed and Flexible Electronics: From Design to Test"**, is accepted by <span style="color:SteelBlue">IEEE European Test Symposium (ETS) 2025</span>.
+
 * [**1/2025**][<span style="color:darkorange">paper</span>]:
   * Our paper "**Compact Yet Highly Accurate Printed Classifiers Using Sequential Support Vector Machine Circuits**", is accepted by <span style="color:SteelBlue">IEEE International Symposium on Circuits and Systems 2025 (ISCAS2025)</span>.
   * Our paper "**Approximate Multiplier Mapping for Unfairness Mitigation in Energy-Efficient DNNs**", is accepted by <span style="color:SteelBlue">IEEE International Symposium on Circuits and Systems 2025 (ISCAS2025)</span>.
