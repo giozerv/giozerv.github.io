@@ -22,6 +22,8 @@ Georgios Zervakis is an Assistant Professor at the [Department of Computer Engin
 Recent News
 ===
 
+* [**3/2025**][<span style="color:darkorange">paper</span>]: Our paper **"Leveraging Highly Approximated Multipliers in DNN Inference"**, is accepted by <span style="color:SteelBlue">IEEE Access</span>.
+
 * [**2/2025**][<span style="color:darkorange">paper</span>]: Our Special Seesion Proposal **"Printed and Flexible Electronics: From Design to Test"**, is accepted by <span style="color:SteelBlue">IEEE European Test Symposium (ETS) 2025</span>.
 
 * [**1/2025**][<span style="color:darkorange">paper</span>]:
