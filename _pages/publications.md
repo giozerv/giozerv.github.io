@@ -15,6 +15,15 @@ a.git {
 
 <details>
 <summary><big><b>Journals</b></big></summary>
+<p><div class="csl-right-inline">A. Kokkinis, G. Zervakis, K. Siozios, M. B. Tahoori and J. Henkel, “Enabling Printed Multilayer Perceptrons Realization via Area-Aware Neural Minimization,” <em>IEEE Transactions on Computers</em>, vol. 74, no. 4, pp. 1461-1469, April 2025, doi: <a
+href="https://doi.org/10.1109/TC.2024.3524076">10.1109/TC.2024.3524076</a>.
+</div></p>
+<p><div class="csl-right-inline">G. Zervakis, F. Frustaci, O. Spantidi, I. Anagnostopoulos, H. Amrouch and J. Henkel, “Leveraging Highly Approximated Multipliers in DNN Inference,” <em>IEEE Access</em>, doi: <a
+href="https://doi.org/10.1109/ACCESS.2025.3550520">10.1109/ACCESS.2025.3550520</a>.
+</div></p>
+<p><div class="csl-right-inline">F. Afentaki, P. C. L. Duarte, G. Zervakis and M. B. Tahoori, “Reducing ADC Front-End Costs During Training of On-Sensor Printed Multilayer Perceptrons,” <em>IEEE Embedded Systems Letters</em>, vol. 16, no. 4, pp. 353-356, Dec. 2024, doi: <a
+href="https://doi.org/10.1109/LES.2024.3447412">10.1109/LES.2024.3447412</a>.
+</div></p>
 <p><div class="csl-right-inline">K. Balaskas, A. Karatzas, C. Sad, K. Siozios, I. Anagnostopoulos, G. Zervakis, and J. Henkel, “Hardware-Aware DNN Compression via Diverse Pruning and Mixed-Precision Quantization,” <em>IEEE Trans. Emerg. Top. Comput.</em>, pp. 1-1, 2024, doi: <a
 href="https://doi.org/10.1109/TETC.2023.3346944">10.1109/TETC.2023.3346944</a>.
 </div></p>
