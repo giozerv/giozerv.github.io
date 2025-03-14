@@ -195,17 +195,17 @@ Proficiency in C, Python, SystemVerilog/VHDL, and RTL simulation is necessary.<b
 
 
 ## Ongoing Dimploma Theses
+* Ioannis Kollias, "Evaluation of Superconducting Circuit Simulation Tools".
 * Dimitrios Papathanasiou, "Evaluation and mitigation of aging effects in Neural Processing Units".
-* Angelos Koumaniotis, "Verification methodologies improvements of Transmitter blocks in a very high speed Serdes context".
 * Nikolaos Kapareliotis, "Verification methodologies improvements of Receiver blocks in a very high speed Serdes context".
-* Theofanis Vergos, "Architecture and approximation exploration for Feed Forward Equalizer Circuit".
-* Polykarpos Vergos, "Exploration of alternative algebras for race logic  architectures and  applications".
 * Ilias Sertaridis, "Design of approximate Printed Support Vector Machine classification circuits".
 * Spyridon Mpesias, "Design and modeling of printed Support Vector Machine classification circuits".
-* Ioannis Loudaros, "Approximate Multiplier for Neural Network Circuits".
-* Marios Alexandropoulos, "Analog Support Vector Machines on Printed Electronics".
+* Ioannis Loudaros, "Energy Efficient Video Analytics on Heterogeneous Edge Clusters".
 
 
 ## Completed Dimploma Theses
+* Polykarpos Vergos, "Development and Evaluation of a Bendable RISC-V Microprocessor with Machine Learning Capabilities," Mar. 2025 \[[online](https://nemertes.library.upatras.gr/items/6539795d-464b-4c94-ab26-ce424d1ed46e)\].
+* Theofanis Vergos, "Architecture and approximation exploration for Feed Forward Equalizer Circuit," Mar. 2025 \[[online](https://nemertes.library.upatras.gr/items/1d0039d9-1932-476d-b9a5-a40847b219f7)\].
+* Angelos Koumaniotis, "Verification methodologies improvements of Transmitter blocks in a very high speed Serdes context," Dec. 2024, \[[online](https://nemertes.library.upatras.gr/items/de0abfc6-db71-416a-b2d4-3dfdb4d6d548)\].
 * Vassilis Milionis, "DNN-based UAV Tracking in AirSim," Oct. 2023, \[[online](https://nemertes.library.upatras.gr/items/d62e9ef4-e23c-4c8f-9593-020fa58270f5)\].
 * Panagiotis Papanikolaou, "Binary Neural Networks on Printed Electronics," Jul. 2023, \[[online](https://nemertes.library.upatras.gr/items/bac833a2-191d-492b-8235-a7c8d6e41687)\].
