@@ -60,13 +60,13 @@ h3 {
 ## Undergraduate Courses
 ### Winter semester
 
-* [Digital Design Lab (CEID_23Y211)](https://www.ceid.upatras.gr/en/node/27360), Compulsory, 3rd semester, [eclass](https://eclass.upatras.gr/courses/CEID1414/)
-* [Introduction to VLSI (CEID_ΝΕ4648)](https://www.ceid.upatras.gr/en/undergraduate/courses/introduction-vlsi), Core Elective, [eclass](https://eclass.upatras.gr/courses/CEID1256/)
+* [Digital Design Lab (CEID_23Y211)](https://www.ceid.upatras.gr/course/ergastirio-logikou-sxediasmou/), Compulsory, 3rd semester, [eclass](https://eclass.upatras.gr/courses/CEID1414/)
+* [Introduction to VLSI (CEID_ΝΕ4648)](https://www.ceid.upatras.gr/course/eisagogi-se-vlsi/), Core Elective, [eclass](https://eclass.upatras.gr/courses/CEID1256/)
 
 ### Summer Semester
 
-* [Digital Design (CEID_NΝY107)](https://www.ceid.upatras.gr/en/undergraduate/courses/logic-design-ii), Compulsory, 2nd semester, [eclass](https://eclass.upatras.gr/courses/CEID1262/)
-* [VLSI Systems Design (CEID_NE5647)](https://www.ceid.upatras.gr/en/undergraduate/courses/vlsi-systems-design), Core Elective, [eclass](https://eclass.upatras.gr/courses/CEID1268/)
+* [Digital Design (CEID_NΝY107)](https://www.ceid.upatras.gr/course/logiki-schediasi/), Compulsory, 2nd semester, [eclass](https://eclass.upatras.gr/courses/CEID1262/)
+* [VLSI Systems Design (CEID_NE5647)](https://www.ceid.upatras.gr/course/schediasmos-systimaton-vlsi/), Core Elective, [eclass](https://eclass.upatras.gr/courses/CEID1268/)
 
 
 ## Available Dimploma Theses
