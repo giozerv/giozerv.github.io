@@ -17,6 +17,9 @@ a.git {
 <summary><big><b>Journals</b></big></summary>
 <p><div class="csl-right-inline">A. Kokkinis, G. Zervakis, K. Siozios, M. B. Tahoori and J. Henkel, “Enabling Printed Multilayer Perceptrons Realization via Area-Aware Neural Minimization,” <em>IEEE Transactions on Computers</em>, vol. 74, no. 4, pp. 1461-1469, April 2025, doi: <a
 href="https://doi.org/10.1109/TC.2024.3524076">10.1109/TC.2024.3524076</a>.
+</div>
+[<a
+href="https://github.com/ArgyKokk/Printed_MLPs" class="git">github</a>]
 </div></p>
 <p><div class="csl-right-inline">G. Zervakis, F. Frustaci, O. Spantidi, I. Anagnostopoulos, H. Amrouch and J. Henkel, “Leveraging Highly Approximated Multipliers in DNN Inference,” <em>IEEE Access</em>, doi: <a
 href="https://doi.org/10.1109/ACCESS.2025.3550520">10.1109/ACCESS.2025.3550520</a>.
@@ -168,9 +171,24 @@ href="https://doi.org/10.1109/TVLSI.2016.2535398">10.1109/TVLSI.2016.2535398</a>
 
 <details>
 <summary><big><b>Conferences</b></big></summary>
+<p><div class="csl-right-inline">G. Saglam, F. Afentaki, G. Zervakis, and M. Tahoori,
+"Sequential Printed Multilayer Perceptron Circuits for Super-TinyML Multi-Sensory Applications,"
+in <em>Asia and South Pacific Design Automation Conference (ASPDAC '25), Tokyo, Japan, 2025</em>, pp. 30-35,
+doi: <a href="https://doi.org/10.1145/3658617.3697634">10.1145/3658617.3697634</a>. </div></p>
+<p><div class="csl-right-inline">P. C. Lozano Duarte, F. Afentaki, G. Zervakis, and Mehdi Tahoori,
+"Design and In-training Optimization of Binary Search ADC for Flexible Classifiers,"
+in <em>Asia and South Pacific Design Automation Conference (ASPDAC '25), Tokyo, Japan, 2025</em>, pp. 754 - 760,
+doi: <a href="https://doi.org/10.1145/3658617.3697715">10.1145/3658617.3697715</a>. </div></p>
+<p><div class="csl-right-inline">V. Mrazek, A. Kokkinis, P. Papanikolaou, Z. Vasicek, K. Siozios, G. Tzimpragos, M. Tahoori, and G. Zervakis,
+"Evolutionary Approximation of Ternary Neurons for On-sensor Printed Neural Networks,"
+in <em>International Conference on Computer Aided Design (ICCAD'24), New Jersey, NY, USA, 2024</em>, pp. 1-6,
+doi: <a href="https://doi.org/10.1145/3676536.3676728">10.1145/3676536.3676728</a>. </div>
+[<a
+href="https://github.com/ehw-fit/approximate-popcount" class="git">github</a>]
+</div></p>
 <p><div class="csl-right-inline">J. Volk, P. Papanikolaou, G. Zervakis, G. Tzimpragos,
 "Synthesis of Resource-Efficient Superconducting Circuits with Clock-Free Alternating Logic,"
-in <em>Design Automation Conference (DAC '24), New York, NY, USA, 2024</em>, pp. 1-6,
+in <em>Design Automation Conference (DAC '24), San Fransisco, CA, USA, 2024</em>, pp. 1-6,
 doi: <a href="https://doi.org/10.1145/3649329.3657376">10.1145/3649329.3657376</a>. </div></p>
 <p><div class="csl-right-inline">D. Masouros, A. Ferikoglou, G. Zervakis, S. Xydis, D. Soudris,
 "Late Breaking Results: Language-level QoR modeling for High-Level Synthesis,"
