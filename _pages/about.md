@@ -23,13 +23,15 @@ Recent News
 ===
 * [**4/2025**][<span style="color:darkorange">paper</span>]: Our paper "**TransAxx: Efficient Transformers with Approximate Computing**" is accepted by <span style="color:SteelBlue">IEEE Transactions on Circuits and Systems for Artificial Intelligence</span>.
 
-* [**4/2025**][<span style="color:darkorange">paper</span>]: Our Special Session **"Repurposing EDA for Unlocking Emerging Technologies"**, is accepted by <span style="color:SteelBlue">IEEE Computer Society Annual Symposium on VLSI (ISVLSI) 2025</span>.
+* [**4/2025**][<span style="color:darkorange">paper</span>]: Our paper **"Computing with Printed and Flexible Electronics"**, is accepted by <span style="color:SteelBlue">IEEE European Test Symposium (ETS) 2025</span>.
+
+* [**4/2025**][<span style="color:purple">service</span>]: Our Special Session **"Repurposing EDA for Unlocking Emerging Technologies"**, is accepted by <span style="color:SteelBlue">IEEE Computer Society Annual Symposium on VLSI (ISVLSI) 2025</span>.
 
 * [**3/2025**][<span style="color:purple">service</span>]: Georgios chairs the session "Power and Energy Efficient Systems" at the Design Automation and Test in Europe 2025 Conference (DATE'25).
 
 * [**3/2025**][<span style="color:darkorange">paper</span>]: Our paper **"Leveraging Highly Approximated Multipliers in DNN Inference"**, is accepted by <span style="color:SteelBlue">IEEE Access</span>.
 
-* [**2/2025**][<span style="color:darkorange">paper</span>]: Our Special Session **"Printed and Flexible Electronics: From Design to Test"**, is accepted by <span style="color:SteelBlue">IEEE European Test Symposium (ETS) 2025</span>.
+* [**2/2025**][<span style="color:purple">service</span>]: Our Special Session **"Printed and Flexible Electronics: From Design to Test"**, is accepted by <span style="color:SteelBlue">IEEE European Test Symposium (ETS) 2025</span>.
 
 * [**1/2025**][<span style="color:darkorange">paper</span>]:
   * Our paper "**Compact Yet Highly Accurate Printed Classifiers Using Sequential Support Vector Machine Circuits**", is accepted by <span style="color:SteelBlue">IEEE International Symposium on Circuits and Systems 2025 (ISCAS2025)</span>.
