@@ -21,7 +21,7 @@ Georgios Zervakis is an Assistant Professor at the [Department of Computer Engin
 
 Recent News
 ===
-* [**1/2025**][<span style="color:darkorange">paper</span>]:
+* [**5/2025**][<span style="color:darkorange">paper</span>]:
   * Our paper **"Support Vector Machines Classification on Bendable RISC-V"**, is accepted by <span style="color:SteelBlue">IEEE Computer Society Annual Symposium on VLSI (ISVLSI) 2025</span>.
   * Our paper **"Carbon-Efficient 3D DNN Acceleration: Optimizing Performance and Sustainability"**, is accepted by <span style="color:SteelBlue">IEEE Computer Society Annual Symposium on VLSI (ISVLSI) 2025</span>.
   
