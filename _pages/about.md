@@ -21,7 +21,7 @@ Georgios Zervakis is an Assistant Professor at the [Department of Computer Engin
 
 Recent News
 ===
-* [**5/2025**][<span style="color:darkorange">paper</span>] Our paper **"Exploration of Low-Power Flexible Stress Monitoring Classifiers for Conformal Wearables"**, is accepted by <span style="color:SteelBlue">International Symposium on Low Power Electronics and Design (ISVLSI) 2025</span>.
+* [**5/2025**][<span style="color:darkorange">paper</span>] Our paper **"Exploration of Low-Power Flexible Stress Monitoring Classifiers for Conformal Wearables"**, is accepted by <span style="color:SteelBlue">International Symposium on Low Power Electronics and Design (ISLPED) 2025</span>.
 
 * [**5/2025**][<span style="color:darkorange">paper</span>]:
   * Our paper **"Support Vector Machines Classification on Bendable RISC-V"**, is accepted by <span style="color:SteelBlue">IEEE Computer Society Annual Symposium on VLSI (ISVLSI) 2025</span>.
