@@ -21,6 +21,15 @@ Georgios Zervakis is an Assistant Professor at the [Department of Computer Engin
 
 Recent News
 ===
+
+* [**7/2025**][<span style="color:darkorange">paper</span>]:
+  * Our paper "**R2T-Tiny: Runtime-Reconfigurable Throughput-Optimized TinyML for Hybrid Inference Acceleration on FPGA SoCs**", is accepted by <span style="color:SteelBlue">International Conference on Computer-Aided Design 2025 (ICCAD'25)</span>.
+  * Our paper "**Co-Design of Mixed-Signal Smart Flexible Wearables for Healthcare at the Extreme Edge**", is accepted by <span style="color:SteelBlue">International Conference on Computer-Aided Design 2025 (ICCAD'25)</span>.
+
+* [**6/2025**][<span style="color:purple">service</span>]: Our Special Session **"Cross-Layer Design for Health-Centric AI Systems: Models, Platforms, and Emerging Hardware"**, is accepted by <span style="color:SteelBlue">International Conference on Computer-Aided Design 2025 (ICCAD'25)</span>.
+
+* [**6/2025**][<span style="color:purple">service</span>]: Georgios serves on the TPC of International Conference on Computer-Aided Design 2025 (ICCAD'25).
+
 * [**5/2025**][<span style="color:darkorange">paper</span>] Our paper **"Exploration of Low-Power Flexible Stress Monitoring Classifiers for Conformal Wearables"**, is accepted by <span style="color:SteelBlue">International Symposium on Low Power Electronics and Design (ISLPED) 2025</span>.
 
 * [**5/2025**][<span style="color:darkorange">paper</span>]:
