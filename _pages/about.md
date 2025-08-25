@@ -22,6 +22,8 @@ Georgios Zervakis is an Assistant Professor at the [Department of Computer Engin
 Recent News
 ===
 
+* [**8/2025**][<span style="color:darkorange">paper</span>]: Our paper "**Arbitrary Precision Printed Ternary Neural Networks with Holistic Evolutionary Approximation**" is accepted by <span style="color:SteelBlue">IEEE Transactions on Circuits and Systems for Artificial Intelligence</span>.
+
 * [**7/2025**][<span style="color:darkorange">paper</span>]:
   * Our paper "**R2T-Tiny: Runtime-Reconfigurable Throughput-Optimized TinyML for Hybrid Inference Acceleration on FPGA SoCs**", is accepted by <span style="color:SteelBlue">International Conference on Computer-Aided Design 2025 (ICCAD'25)</span>.
   * Our paper "**Co-Design of Mixed-Signal Smart Flexible Wearables for Healthcare at the Extreme Edge**", is accepted by <span style="color:SteelBlue">International Conference on Computer-Aided Design 2025 (ICCAD'25)</span>.
