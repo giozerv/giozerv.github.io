@@ -26,7 +26,7 @@ Recent News
 
 * [**7/2025**][<span style="color:darkorange">paper</span>]:
   * Our paper "**R2T-Tiny: Runtime-Reconfigurable Throughput-Optimized TinyML for Hybrid Inference Acceleration on FPGA SoCs**", is accepted by <span style="color:SteelBlue">International Conference on Computer-Aided Design 2025 (ICCAD'25)</span>.
-  * Our paper "** Feature-to-Classifier Co-Design for Mixed-Signal Smart Flexible Wearables for Healthcare at the Extreme Edge**", is accepted by <span style="color:SteelBlue">International Conference on Computer-Aided Design 2025 (ICCAD'25)</span>.
+  * Our paper "**Feature-to-Classifier Co-Design for Mixed-Signal Smart Flexible Wearables for Healthcare at the Extreme Edge**", is accepted by <span style="color:SteelBlue">International Conference on Computer-Aided Design 2025 (ICCAD'25)</span>.
 
 * [**6/2025**][<span style="color:purple">service</span>]: Our Special Session **"Cross-Layer Design for Health-Centric AI Systems: Models, Platforms, and Emerging Hardware"**, is accepted by <span style="color:SteelBlue">International Conference on Computer-Aided Design 2025 (ICCAD'25)</span>.
 
