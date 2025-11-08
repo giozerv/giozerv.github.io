@@ -22,11 +22,24 @@ Georgios Zervakis is an Assistant Professor at the [Department of Computer Engin
 Recent News
 ===
 
+* [**11/2025**][<span style="color:darkorange">paper</span>]:
+  * Our paper **"Bespoke Co-processor for Energy-Efficient Health Monitoring on RISC-V-based Flexible Wearables"**, is accepted by <span style="color:SteelBlue">Design Automation and Test in Europe 2026 Conference (DATE'26)</span>.
+  * Our paper **"Design and Optimization of Mixed-Kernel Mixed-Signal SVMs for Flexible Electronics"**, is accepted by <span style="color:SteelBlue">Design Automation and Test in Europe 2026 Conference (DATE'26)</span>.
+
+* [**11/2025**][<span style="color:purple">service</span>]: Georgios serves on the TPC of Design Automation and Test in Europe 2026 Conference (DATE'26).
+
+* [**10/2022**][<span style="color:Teal">talk</span> + <span style="color:purple">service</span>]:
+  * Georgios gave an invited talk at the <span style="color:SteelBlue">International Conference on Computer-Aided Design 2025 (ICCAD'25)</span>, Munich, Germany, "**Feature-to-Classifier Co-Design for Mixed-Signal Smart Flexible Wearables for Healthcare at the Extreme Edge**".
+  * Georgios co-chairs the session "Cross-Layer Design for Health-Centric AI Systems: Models, Platforms, and Emerging Hardware" at the International Conference on Computer-Aided Design 2025 (ICCAD'25).
+  * Georgios co-chairs the session "Power and Performance Conscious Hardware Design" at the International Conference on Computer-Aided Design 2025 (ICCAD'25).
+
 * [**8/2025**][<span style="color:darkorange">paper</span>]: Our paper "**Arbitrary Precision Printed Ternary Neural Networks with Holistic Evolutionary Approximation**" is accepted by <span style="color:SteelBlue">IEEE Transactions on Circuits and Systems for Artificial Intelligence</span>.
 
 * [**7/2025**][<span style="color:darkorange">paper</span>]:
   * Our paper "**R2T-Tiny: Runtime-Reconfigurable Throughput-Optimized TinyML for Hybrid Inference Acceleration on FPGA SoCs**", is accepted by <span style="color:SteelBlue">International Conference on Computer-Aided Design 2025 (ICCAD'25)</span>.
   * Our paper "**Feature-to-Classifier Co-Design for Mixed-Signal Smart Flexible Wearables for Healthcare at the Extreme Edge**", is accepted by <span style="color:SteelBlue">International Conference on Computer-Aided Design 2025 (ICCAD'25)</span>.
+ 
+* [**7/2025**][<span style="color:Teal">talk</span>]: Georgios gave an invited talk at the <span style="color:SteelBlue">IEEE Computer Society Annual Symposium on VLSI (ISVLSI) 2025</span>, Kalamata, Greece, "**AutoPNN-Automated Printed Neural Network Design**".
 
 * [**6/2025**][<span style="color:purple">service</span>]: Our Special Session **"Cross-Layer Design for Health-Centric AI Systems: Models, Platforms, and Emerging Hardware"**, is accepted by <span style="color:SteelBlue">International Conference on Computer-Aided Design 2025 (ICCAD'25)</span>.
 
