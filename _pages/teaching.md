@@ -183,27 +183,19 @@ Proficiency in Python, and either C/C++ or Verilog and RTL simulation is necessa
 **Type of work**: This role is designed to enrich your learning while providing hands-on experience. As such, the work is divided into 25% literature study to enhance your theoretical knowledge and 75% hands-on RTL development or C development depending on the end platform (i.e., MCU or FPGA).
 
 
-### Design and Evaluation of a Vector Functional Unit
-
-In this diploma thesis you will primarily focus on designing the RTL for a Vector Functional Unit (VFU) intended for a broad vector processor, enhancing high-performance SIMD (Single Instruction, Multiple Data) operations. This position also encompasses creating data communication pathways for the VFU. Ultimately, you will generate a widely applicable RTL block netlist for both the VFU and its communication pathways.<br>
-This diploma thesis is in collaboration with [IMEC](https://www.imec-int.com/en), Belgium, and includes the possibility of an associated internship. More details can regarding this topic can be found [here](https://www.imec-int.com/en/work-at-imec/job-opportunities/ppact-evaluation-vector-functional-unit).
-
-**Required background**: We are seeking candidates with a background in Electronic/Computer
-Engineering, with a strong understanding of Computer Architecture, Microarchitecture/ISA.
-Proficiency in C, Python, SystemVerilog/VHDL, and RTL simulation is necessary.<br>
-**Type of work**: This role is designed to enrich your learning while providing hands-on experience. As such, the work is divided into 25% literature study to enhance your theoretical knowledge and 75% hands-on RTL development and physical design to immerse you in practical, innovative solutions.
 
 
 ## Ongoing Dimploma Theses
-* Ioannis Kollias, "Evaluation of Superconducting Circuit Simulation Tools".
-* Dimitrios Papathanasiou, "Evaluation and mitigation of aging effects in Neural Processing Units".
-* Nikolaos Kapareliotis, "Verification methodologies improvements of Receiver blocks in a very high speed Serdes context".
-* Ilias Sertaridis, "Design of approximate Printed Support Vector Machine classification circuits".
-* Spyridon Mpesias, "Design and modeling of printed Support Vector Machine classification circuits".
-* Ioannis Loudaros, "Energy Efficient Video Analytics on Heterogeneous Edge Clusters".
+* Spyridon Papageorgiou, "Hardware-Aware Optimization of DNNs for Analog In-Memory Accelerators".
+* Dorita Podimata, "Glucose prediction on an ESP32 microcontroller".
 
 
 ## Completed Dimploma Theses
+
+* Ioannis Loudaros, "Energy Efficient Video Analytics on Heterogeneous Edge Clusters," Dec. 2025 \[[online](https://nemertes.library.upatras.gr/items/a0b4a64d-7f1a-4e44-ab57-34624060420a)\]. 
+* Nikolaos Kapareliotis, "Verification methodologies improvements of Receiver blocks in a very high speed Serdes context," Jul. 2025 \[[online](https://nemertes.library.upatras.gr/items/24286561-93ab-44aa-ae57-9e2df9336623)\].
+* Ilias Sertaridis, "Design and modeling of parallel support vector machine architecture in printed electronics," Jul. 2025 \[[online](https://nemertes.library.upatras.gr/items/c665777a-2735-4cc0-a053-e307d59754c9)\].
+* Spyridon Mpesias, "Design and modeling of a sequential architecture of support vector machines in printed electronics"," Jul. 2025 \[[online](https://nemertes.library.upatras.gr/items/8824ea38-cfdc-4abe-b9d2-6af71189baf9)\].
 * Polykarpos Vergos, "Development and Evaluation of a Bendable RISC-V Microprocessor with Machine Learning Capabilities," Mar. 2025 \[[online](https://nemertes.library.upatras.gr/items/6539795d-464b-4c94-ab26-ce424d1ed46e)\].
 * Theofanis Vergos, "Architecture and approximation exploration for Feed Forward Equalizer Circuit," Mar. 2025 \[[online](https://nemertes.library.upatras.gr/items/1d0039d9-1932-476d-b9a5-a40847b219f7)\].
 * Angelos Koumaniotis, "Verification methodologies improvements of Transmitter blocks in a very high speed Serdes context," Dec. 2024, \[[online](https://nemertes.library.upatras.gr/items/de0abfc6-db71-416a-b2d4-3dfdb4d6d548)\].
