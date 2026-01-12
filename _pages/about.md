@@ -17,10 +17,20 @@ a.underline {
 </style>
 
 <style>body {text-align: justify}</style>
-Georgios Zervakis is an Assistant Professor at the [Department of Computer Engineering & Informatics Department (CEID)](https://www.ceid.upatras.gr/en), [University of Patras](https://www.upatras.gr/en/), Greece, since September 2022. Before joining CEID, he was a Research Group Leader at the [Chair for Embedded Systems (CES)](https://ces.itec.kit.edu/), [Karlsruhe Institute of Technology (KIT)](https://www.kit.edu/), Germany. During his time at CES (August 2019 - September 2022), he led research initiatives focusing on digital design for approximate and machine-learning circuits. Dr. Zervakis received the Diploma and Ph.D. degrees from the [School of Electrical and Computer Engineering (ECE)](https://www.ece.ntua.gr/en), [National Technical University of Athens (NTUA)](https://www.ntua.gr/en/), Greece, in 2012 and 2018, respectively. Following the completion of his Ph.D., he continued his academic pursuits as a post-doctoral researcher at NTUA before joining KIT a year later.  Additionally, Dr. Zervakis has worked in many EU-funded research projects as a research associate of the Institute of Communication and Computer Systems (ICCS), Athens, Greece (Dec 2015-Aug 2019). As a member of KIT he worked on a German Research Foundation (DFG) project. He actively participates in academic communities, serving as a reviewer for several IEEE and ACM Transactions journals and is also a technical program committee member of the major design conferences (incl. DAC, DATE, ICCAD). His main research interests include digital design, low-power, accelerator microarchitectures, approximate computing, design automation, circuit synthesis and optimization, emerging technologies,  printed electronics, and machine learning.
+Georgios Zervakis is an Assistant Professor at the [School of Electrical and Computer Engineering (ECE)](https://www.ece.ntua.gr/en), [National Technical University of Athens (NTUA)](https://www.ntua.gr/en/), Greece. From 2019 to 2022, he was a Research Group Leader at the [Chair for Embedded Systems (CES)](https://ces.itec.kit.edu/), [Karlsruhe Institute of Technology (KIT)](https://www.kit.edu/), Germany, where he led research initiatives on digital design for approximate and machine-learning circuits. From 2022 to 2025, he served as an Assistant Professor at the [Department of Computer Engineering & Informatics Department (CEID)](https://www.ceid.upatras.gr/en), [University of Patras](https://www.upatras.gr/en/), Greece.
+
+Dr. Zervakis has participated in several EU-funded research projects as a Research Associate at the Institute of Communication and Computer Systems (ICCS), Greece and Aristotle University of Thessaloniki, Greece. He was also a senior researcher in two German Research Foundation (DFG) projects on DNN accelerator design. He has also been a Principal Investigator of an HFRI project on printed and flexible machine-learning circuit design.
+
+He is actively involved in the academic community, serving as a reviewer for several IEEE and ACM Transactions journals and as a Technical Program Committee member of major design automation conferences, including DAC, DATE, and ICCAD. He is also an Associate Editor of IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems.
+
+His main research interests include digital design, low-power circuits, approximate computing, design automation, printed and flexible electronics, emerging technologies, healthcare circuits, and machine learning.
+
 
 Recent News
 ===
+* [**1/2026**]: Georgios joins [National Technical University of Athens (NTUA)](https://www.ntua.gr/en/) as an Assistant Professor at the [School of Electrical and Computer Engineering (ECE)](https://www.ece.ntua.gr/en). He warmly thanks his colleagues at CEID for the last three wonderful and highly fruitful years.
+
+* [**12/2025**][<span style="color:purple">service</span>]: Georgios joins the editorial board of IEEE Transactions on Computer-Aided Design of Integrated Circuits & Systems (TCAD) as an Associate Editor.
 
 * [**11/2025**][<span style="color:darkorange">paper</span>]:
   * Our paper **"Bespoke Co-processor for Energy-Efficient Health Monitoring on RISC-V-based Flexible Wearables"**, is accepted by <span style="color:SteelBlue">Design Automation and Test in Europe 2026 Conference (DATE'26)</span>.
@@ -143,6 +153,6 @@ Applied Superconductivity Conference 2024 (ASC'24)</span>.
 
 * [**9/2022**][<span style="color:darkorange">paper</span>]: Our paper "**AdaPT: Fast Emulation of Approximate DNN Accelerators in PyTorch**", a collaboration with <a href="https://ces.itec.kit.edu/" class="underline">CES</a>, KIT, is accepted by <span style="color:SteelBlue">Transactions on Computer-Aided Design of Integrated Circuits and Systems</span>.
 
-* \[**9/2022**\]: Georgios joins University of Patras as an Assistant Professor at [CEID](https://www.ceid.upatras.gr/en).
+* \[**9/2022**\]: Georgios joins University of Patras as an Assistant Professor at the [CEID](https://www.ceid.upatras.gr/en).
 
 * \[**9/2022**\]: Georgios is departing from [KIT](https://www.kit.edu/), and he extends his heartfelt gratitude to [Prof. Henkel and his group](https://ces.itec.kit.edu/) for making these past three years truly wonderful. Many thanks!!
