@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Georgios Zervakis"
 title_separator          : "-"
 name                     : &name "Georgios Zervakis"
-description              : &description "Assistant Professor at Department of Computer Engineering & Informatics, University of Patras"
+description              : &description "Assistant Professor at the School of Electrical and Computer Engineering, National Technical University of Athens (NTUA), "
 url                      : https://giozerv.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "giozerv/giozerv.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Georgios Zervakis"
   avatar           : "georgios_zervakis.jpg"
-  bio              : "Assistant Professor<br/> University of Patras"
-  location         : "Patras, Greece"
+  bio              : "Assistant Professor<br/> School of ECE <br/> National Technical University of Athens (NTUA)"
+  location         : "Office B1.7, ECE, NTUA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=hZtfPegAAAAJ&hl=en"
-  email            : "zervakis@upatras.gr"
+  email            : "zervakis@mail.ntua.gr"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
