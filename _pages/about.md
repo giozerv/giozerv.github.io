@@ -28,6 +28,7 @@ His main research interests include digital design, low-power circuits, approxim
 
 Recent News
 ===
+* [**1/2026**]: 
 
 * [**1/2026**]: Georgios joins [National Technical University of Athens (NTUA)](https://www.ntua.gr/en/) as an Assistant Professor at the [School of Electrical and Computer Engineering (ECE)](https://www.ece.ntua.gr/en). He warmly thanks his colleagues at CEID for the last three wonderful and highly fruitful years.
 
