@@ -29,6 +29,11 @@ His main research interests include digital design, low-power circuits, approxim
 Recent News
 ===
 
+* [**3/2026**][<span style="color:darkorange">paper</span>]:
+  * Our paper **"RBF-Driven Analog Neural Networks for Flexible Wearable Near-Sensor at the Extreme Edge"**, is accepted by <span style="color:SteelBlue">Design Automation Conference (DAC'26)</span>.
+  * Our paper **"Late Breaking Results: Towards Low-Latency TinyML via Regularized Activation Packing"**, is accepted by <span style="color:SteelBlue">Design Automation Conference (DAC'26)</span>.
+  * Our paper **"Late-Breaking Results: Ultra Energy Efficient Personalized Glucose Prediction with RLS Implementation on a Tiny FPGA"**, is accepted by <span style="color:SteelBlue">Design Automation Conference (DAC'26)</span>.
+
 * \[**1/2026**\]: Georgios joins [National Technical University of Athens (NTUA)](https://www.ntua.gr/en/) as an Assistant Professor at the [School of Electrical and Computer Engineering (ECE)](https://www.ece.ntua.gr/en). He warmly thanks his colleagues at CEID for the last three wonderful and highly fruitful years.
 
 * [**12/2025**][<span style="color:purple">service</span>]: Georgios joins the editorial board of IEEE Transactions on Computer-Aided Design of Integrated Circuits & Systems (TCAD) as an Associate Editor.
