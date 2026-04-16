@@ -29,6 +29,8 @@ His main research interests include digital design, low-power circuits, approxim
 Recent News
 ===
 
+* [**4/2026**][<span style="color:darkorange">paper</span>] Our paper **"Dual Op-Amps for Flexible Edge ICs: Ultra-Low-Power and Moderate-Bandwidth"**, is accepted by <span style="color:SteelBlue">International NEWCAS Conference 2026</span>.
+
 * [**3/2026**][<span style="color:darkorange">paper</span>]:
   * Our paper **"RBF-Driven Analog Neural Networks for Flexible Wearable Near-Sensor at the Extreme Edge"**, is accepted by <span style="color:SteelBlue">Design Automation Conference (DAC'26)</span>.
   * Our paper **"Late Breaking Results: Towards Low-Latency TinyML via Regularized Activation Packing"**, is accepted by <span style="color:SteelBlue">Design Automation Conference (DAC'26)</span>.
