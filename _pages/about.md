@@ -29,6 +29,12 @@ His main research interests include digital design, low-power circuits, approxim
 Recent News
 ===
 
+* [**5/2026**][<span style="color:darkorange">paper</span>] Our paper **"AML-K: An Analog Machine Learning Accelerator for K-Means at the Edge with Hardware-Software Co-Optimization"**, is accepted by <span style="color:SteelBlue">IEEE Transactions on Circuits and Systems for Artificial Intelligence</span>.
+
+* [**5/2026**][<span style="color:darkorange">paper</span>] Our paper **"Lightweight Fault Resilient Flexible Flash-ADCs"**, is accepted by <span style="color:SteelBlue">IEEE International Symposium on On-Line Testing and Robust System Design (IOLTS) 2026</span>.
+
+* [**4/2026**][<span style="color:purple">service</span>]: Georgios chairs the session "Efficient AI Systems, Model Compression, and Edge Optimisation" at the Design Automation and Test in Europe 2026 Conference (DATE'26).
+
 * [**4/2026**][<span style="color:darkorange">paper</span>] Our paper **"Dual Op-Amps for Flexible Edge ICs: Ultra-Low-Power and Moderate-Bandwidth"**, is accepted by <span style="color:SteelBlue">International NEWCAS Conference 2026</span>.
 
 * [**3/2026**][<span style="color:darkorange">paper</span>]:
