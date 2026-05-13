@@ -52,7 +52,7 @@ Recent News
 
 * [**11/2025**][<span style="color:purple">service</span>]: Georgios serves on the TPC of Design Automation and Test in Europe 2026 Conference (DATE'26).
 
-* [**10/2022**][<span style="color:Teal">talk</span> + <span style="color:purple">service</span>]:
+* [**10/2025**][<span style="color:Teal">talk</span> + <span style="color:purple">service</span>]:
   * Georgios gave an invited talk at the <span style="color:SteelBlue">International Conference on Computer-Aided Design 2025 (ICCAD'25)</span>, Munich, Germany, "**Feature-to-Classifier Co-Design for Mixed-Signal Smart Flexible Wearables for Healthcare at the Extreme Edge**".
   * Georgios co-chairs the session "Cross-Layer Design for Health-Centric AI Systems: Models, Platforms, and Emerging Hardware" at the International Conference on Computer-Aided Design 2025 (ICCAD'25).
   * Georgios co-chairs the session "Power and Performance Conscious Hardware Design" at the International Conference on Computer-Aided Design 2025 (ICCAD'25).
