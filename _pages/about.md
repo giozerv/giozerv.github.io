@@ -28,6 +28,7 @@ His main research interests include digital design, low-power circuits, approxim
 
 Recent News
 ===
+* [**6/2026**][<span style="color:purple">service</span>]: Georgios serves on the TPC of International Conference on Computer-Aided Design 2026 (ICCAD'26).
 
 * [**6/2026**][<span style="color:darkorange">paper</span>] Our paper **"Co-Optimization of Analog Kolmogorov-Arnold Networks for Low-Power Function Approximation in Flexible Electronics"**, is accepted by <span style="color:SteelBlue">IEEE Journal on Emerging and Selected Topics in Circuits and Systems</span>.
 
