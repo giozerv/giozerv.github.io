@@ -29,6 +29,10 @@ His main research interests include digital design, low-power circuits, approxim
 Recent News
 ===
 
+* [**6/2026**][<span style="color:darkorange">paper</span>] Our paper **"Co-Optimization of Analog Kolmogorov-Arnold Networks for Low-Power Function Approximation in Flexible Electronics"**, is accepted by <span style="color:SteelBlue">IEEE Journal on Emerging and Selected Topics in Circuits and Systems</span>.
+
+* [**6/2026**][<span style="color:darkorange">paper</span>] Our paper **"Reducing the Footprint of Approximate Ternary Neural Networks via Per-Neuron Input Permutations"**, is accepted by <span style="color:SteelBlue">International Conference on Very Large Scale Integration (VLSI-SoC)</span>.
+
 * [**5/2026**][<span style="color:darkorange">paper</span>] Our paper **"AML-K: An Analog Machine Learning Accelerator for K-Means at the Edge with Hardware-Software Co-Optimization"**, is accepted by <span style="color:SteelBlue">IEEE Transactions on Circuits and Systems for Artificial Intelligence</span>.
 
 * [**5/2026**][<span style="color:darkorange">paper</span>] Our paper **"Lightweight Fault Resilient Flexible Flash-ADCs"**, is accepted by <span style="color:SteelBlue">IEEE International Symposium on On-Line Testing and Robust System Design (IOLTS) 2026</span>.
