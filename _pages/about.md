@@ -28,6 +28,11 @@ His main research interests include digital design, low-power circuits, approxim
 
 Recent News
 ===
+
+* [**7/2026**][<span style="color:darkorange">paper</span>] Our paper **"TailoR-V: Automated Bespoke Flexible RISC-V Core Generation for Extreme-Edge IoT applications"**, is accepted by <span style="color:SteelBlue">International Conference on Computer Aided Design (ICCAD)</span>.
+
+* [**7/2026**][<span style="color:darkorange">paper</span>] Our paper **"Low-Power Binary Search ADC with High-Level Non-Uniform Input Optimization for Flexible Electronics"**, is accepted by <span style="color:SteelBlue">IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems</span>.
+
 * [**6/2026**][<span style="color:purple">service</span>]: Georgios serves on the TPC of International Conference on Computer-Aided Design 2026 (ICCAD'26).
 
 * [**6/2026**][<span style="color:darkorange">paper</span>] Our paper **"Co-Optimization of Analog Kolmogorov-Arnold Networks for Low-Power Function Approximation in Flexible Electronics"**, is accepted by <span style="color:SteelBlue">IEEE Journal on Emerging and Selected Topics in Circuits and Systems</span>.
