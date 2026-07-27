@@ -29,6 +29,8 @@ His main research interests include digital design, low-power circuits, approxim
 Recent News
 ===
 
+* [**7/2026**][<span style="color:darkorange">paper</span>] Our paper **"Real-Time Stress Monitoring with Flexible Electronics: A Co-Design Approach from ADCs to Feature Extractors and Classifiers"**, is accepted by <span style="color:SteelBlue">IEEE Internet of Things Journal</span>.
+
 * [**7/2026**][<span style="color:darkorange">paper</span>] Our paper **"TailoR-V: Automated Bespoke Flexible RISC-V Core Generation for Extreme-Edge IoT applications"**, is accepted by <span style="color:SteelBlue">International Conference on Computer Aided Design (ICCAD'26)</span>.
 
 * [**7/2026**][<span style="color:darkorange">paper</span>] Our paper **"Low-Power Binary Search ADC with High-Level Non-Uniform Input Optimization for Flexible Electronics"**, is accepted by <span style="color:SteelBlue">IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems</span>.
