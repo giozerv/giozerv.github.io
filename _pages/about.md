@@ -29,7 +29,7 @@ His main research interests include digital design, low-power circuits, approxim
 Recent News
 ===
 
-* [**7/2026**][<span style="color:darkorange">paper</span>] Our paper **"FlexRF: Retention-Aware Compilation for Low-power and Area-Efficient Flexible Microprocessors using IGZO DRAM-style Register File"**, is accepted by <span style="color:SteelBlue">Asia and South Pacific Design Automation Conference (ASP-DAC'27)</span>.
+* [**9/2026**][<span style="color:darkorange">paper</span>] Our paper **"FlexRF: Retention-Aware Compilation for Low-power and Area-Efficient Flexible Microprocessors using IGZO DRAM-style Register File"**, is accepted by <span style="color:SteelBlue">Asia and South Pacific Design Automation Conference (ASP-DAC'27)</span>.
 
 * [**7/2026**][<span style="color:darkorange">paper</span>] Our paper **"Real-Time Stress Monitoring with Flexible Electronics: A Co-Design Approach from ADCs to Feature Extractors and Classifiers"**, is accepted by <span style="color:SteelBlue">IEEE Internet of Things Journal</span>.
 
