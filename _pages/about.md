@@ -29,9 +29,15 @@ His main research interests include digital design, low-power circuits, approxim
 Recent News
 ===
 
+* [**7/2026**][<span style="color:darkorange">paper</span>] Our paper **"FlexRF: Retention-Aware Compilation for Low-power and Area-Efficient Flexible Microprocessors using IGZO DRAM-style Register File"**, is accepted by <span style="color:SteelBlue">Asia and South Pacific Design Automation Conference (ASP-DAC'27)</span>.
+
 * [**7/2026**][<span style="color:darkorange">paper</span>] Our paper **"Real-Time Stress Monitoring with Flexible Electronics: A Co-Design Approach from ADCs to Feature Extractors and Classifiers"**, is accepted by <span style="color:SteelBlue">IEEE Internet of Things Journal</span>.
 
 * [**7/2026**][<span style="color:darkorange">paper</span>] Our paper **"TailoR-V: Automated Bespoke Flexible RISC-V Core Generation for Extreme-Edge IoT applications"**, is accepted by <span style="color:SteelBlue">International Conference on Computer Aided Design (ICCAD'26)</span>.
+
+* [**7/2026**][<span style="color:darkorange">paper</span>] Our paper **"Co-Designing TinyML-powered Digital Health Applications for FPGA-based Wearable Devices"**, is accepted by <span style="color:SteelBlue">International Conference on Omni-Layer Intelligent Systems (COINS'26)</span>.
+
+* [**7/2026**][<span style="color:darkorange">paper</span>] Our paper **"Co-Design of Multiplier-Free Matrix Decompositions for TinyML CNN Implementations on FPGAs"**, is accepted by <span style="color:SteelBlue">International Conference on Compilers, Architecture, and Synthesis for Embedded Systems (CASES), Embedded Systems Week (ESWEEK) 2026</span>.
 
 * [**7/2026**][<span style="color:darkorange">paper</span>] Our paper **"Low-Power Binary Search ADC with High-Level Non-Uniform Input Optimization for Flexible Electronics"**, is accepted by <span style="color:SteelBlue">IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems</span>.
 
