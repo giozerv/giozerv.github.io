@@ -1,0 +1,661 @@
+# Citation metadata imported from own-bib.bib and workshops.bib.
+# This file supplies the Publications page in the GitHub Pages build.
+
+- title: Journals
+  entries:
+  - authors: F. Afentaki, K. Balaskas, A. Datta, P. C. Lozano Duarte, P. Vergos, S. Jiang, G. Zervakis, F. Firouzi, K. Chakrabarty, and M. Tahoori
+    title: 'Real-Time Stress Monitoring With Flexible Electronics: A Co-Design Approach From ADCs to Feature Extractors and Classifiers'
+    year: 2026
+    venue: IEEE Internet of Things Journal
+    volume: '13'
+    issue: '20'
+    pages: 46533–46547
+    doi: 10.1109/JIOT.2026.3718780
+  - authors: P. C. Lozano Duarte, F. Afentaki, G. Zervakis, M. Tahoori, and S. Nassif
+    title: Low-Power Binary Search ADC with High-Level Non-Uniform Input Optimization for Flexible Electronics
+    year: 2026
+    venue: IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems
+    doi: 10.1109/TCAD.2026.3721035
+  - authors: P. C. Lozano Duarte, G. Zervakis, M. Tahoori, and S. Nassif
+    title: Co-Optimization of Analog Kolmogorov-Arnold Networks for Low-Power Function Approximation in Flexible Electronics
+    year: 2026
+    venue: IEEE Journal on Emerging and Selected Topics in Circuits and Systems
+    doi: 10.1109/JETCAS.2026.3707339
+  - authors: M. Shatta, S. Nassif, G. Zervakis, and M. B. Tahoori
+    title: 'AML-K: An Analog Machine Learning Accelerator for K-Means at the Edge with Hardware-Software Co-Optimization'
+    year: 2026
+    venue: IEEE Transactions on Circuits and Systems for Artificial Intelligence
+    pages: 1–14
+    doi: 10.1109/TCASAI.2026.3695829
+  - authors: V. Mrazek, K. Balaskas, P. C. Lozano Duarte, Z. Vasicek, M. B. Tahoori, and G. Zervakis
+    title: Arbitrary Precision Printed Ternary Neural Networks With Holistic Evolutionary Approximation
+    year: 2025
+    venue: IEEE Transactions on Circuits and Systems for Artificial Intelligence
+    volume: '2'
+    issue: '4'
+    pages: 351–363
+    doi: 10.1109/TCASAI.2025.3604384
+  - authors: D. Danopoulos, G. Zervakis, D. Soudris, and J. Henkel
+    title: 'TransAxx: Efficient Transformers With Approximate Computing'
+    year: 2025
+    venue: IEEE Transactions on Circuits and Systems for Artificial Intelligence
+    volume: '2'
+    issue: '4'
+    pages: 288–301
+    doi: 10.1109/TCASAI.2025.3565685
+  - authors: G. Zervakis, F. Frustaci, O. Spantidi, I. Anagnostopoulos, H. Amrouch, and J. Henkel
+    title: Leveraging Highly Approximated Multipliers in DNN Inference
+    year: 2025
+    venue: IEEE Access
+    volume: '13'
+    pages: 47897–47911
+    doi: 10.1109/ACCESS.2025.3550520
+  - authors: A. Kokkinis, G. Zervakis, K. Siozios, M. B. Tahoori, and J. Henkel
+    title: Enabling Printed Multilayer Perceptrons Realization via Area-Aware Neural Minimization
+    year: 2025
+    venue: IEEE Transactions on Computers
+    volume: '74'
+    issue: '4'
+    pages: 1461–1469
+    doi: 10.1109/TC.2024.3524076
+    github: https://github.com/ArgyKokk/Printed_MLPs
+  - authors: F. Afentaki, P. C. Lozano Duarte, G. Zervakis, and M. B. Tahoori
+    title: Reducing ADC Front-end Costs During Training of On-sensor Printed Multilayer Perceptrons
+    year: 2024
+    venue: IEEE Embedded Systems Letters
+    volume: '16'
+    issue: '4'
+    pages: 353–356
+    doi: 10.1109/LES.2024.3447412
+    github: https://github.com/floAfentaki/Approximation-Techniques-Targeting-Printed-MLPs
+  - authors: K. Balaskas, A. Karatzas, C. Sad, K. Siozios, I. Anagnostopoulos, G. Zervakis, and J. Henkel
+    title: Hardware-Aware DNN Compression via Diverse Pruning and Mixed-Precision Quantization
+    year: 2024
+    venue: IEEE Transactions on Emerging Topics in Computing
+    pages: 3532–3544
+    doi: 10.1109/TETC.2023.3346944
+  - authors: G. Armeniakos, G. Zervakis, D. Soudris, M. B. Tahoori, and J. Henkel
+    title: Model-to-Circuit Cross-Approximation For Printed Machine Learning Classifiers
+    year: 2023
+    venue: IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems
+    volume: '42'
+    issue: '11'
+    pages: 3532–3544
+    doi: 10.1109/TCAD.2023.3258668
+    github: https://github.com/garmeniakos/Ax-Printed-ML-Classifiers
+  - authors: G. Armeniakos, G. Zervakis, D. Soudris, and J. Henkel
+    title: 'Hardware Approximate Techniques for Deep Neural Network Accelerators: A Survey'
+    year: 2023
+    venue: ACM Computing Surveys
+    volume: '55'
+    issue: '4'
+    pages: 83:1–83:36
+    doi: 10.1145/3527156
+  - authors: G. Armeniakos, G. Zervakis, D. Soudris, M. B. Tahoori, and J. Henkel
+    title: Co-Design of Approximate Multilayer Perceptron for Ultra-Resource Constrained Printed Circuits
+    year: 2023
+    venue: IEEE Transactions on Computers
+    volume: '72'
+    issue: '9'
+    pages: 2717–2725
+    doi: 10.1109/TC.2023.3251863
+    github: https://github.com/garmeniakos/Ax-Printed-ML-Classifiers
+  - authors: D. Danopoulos, G. Zervakis, K. Siozios, D. Soudris, and J. Henkel
+    title: 'AdaPT: Fast Emulation of Approximate DNN Accelerators in PyTorch'
+    year: 2023
+    venue: IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems
+    volume: '42'
+    issue: '6'
+    pages: 2074–2078
+    doi: 10.1109/TCAD.2022.3212645
+    github: https://github.com/dimdano/adapt
+  - authors: O. Spantidi, G. Zervakis, S. Alsalamin, I. Roman-Ballesteros, J. Henkel, H. Amrouch, and I. Anagnostopoulos
+    title: Targeting DNN Inference Via Efficient Utilization of Heterogeneous Precision DNN Accelerators
+    year: 2023
+    venue: IEEE Transactions on Emerging Topics in Computing
+    volume: '11'
+    issue: '1'
+    pages: 112–125
+    doi: 10.1109/TETC.2022.3178730
+  - authors: O. Spantidi, G. Zervakis, I. Anagnostopoulos, and J. Henkel
+    title: Energy-Efficient DNN Inference on Approximate Accelerators Through Formal Property Exploration
+    year: 2022
+    venue: IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems
+    volume: '41'
+    issue: '11'
+    pages: 3838–3849
+    doi: 10.1109/TCAD.2022.3197522
+  - authors: S. Salamin, G. Zervakis, F. Klemme, H. Kattan, Y. Chauhan, J. Henkel, and H. Amrouch
+    title: Impact of NCFET Technology on Eliminating the Cooling Cost and Boosting the Efficiency of Google TPU
+    year: 2022
+    venue: IEEE Transactions on Computers
+    volume: '71'
+    issue: '4'
+    pages: 906–918
+    doi: 10.1109/TC.2021.3065454
+  - authors: G. Zervakis, I. Anagnostopoulos, S. Salamin, O. Spantidi, I. Roman-Ballesteros, J. Henkel, and H. Amrouch
+    title: Thermal-Aware Design for Approximate DNN Accelerators
+    year: 2022
+    venue: IEEE Transactions on Computers
+    volume: '71'
+    issue: '10'
+    pages: 2687–2697
+    doi: 10.1109/TC.2022.3141054
+  - authors: K. Balaskas, F. Klemme, G. Zervakis, K. Siozios, H. Amrouch, and J. Henkel
+    title: Variability-Aware Approximate Circuit Synthesis via Genetic Optimization
+    year: 2022
+    venue: 'IEEE Transactions on Circuits and Systems I: Regular Papers'
+    volume: '69'
+    issue: '10'
+    pages: 4141–4153
+    doi: 10.1109/TCSI.2022.3183858
+  - authors: N. Irtija, I. Anagnostopoulos, G. Zervakis, E. E. Tsiropoulou, H. Amrouch, and J. Henkel
+    title: Energy Efficient Edge Computing Enabled by Satisfaction Games and Approximate Computing
+    year: 2022
+    venue: IEEE Transactions on Green Communications and Networking
+    volume: '6'
+    issue: '1'
+    pages: 281–294
+    doi: 10.1109/TGCN.2021.3122911
+  - authors: K. Balaskas, G. Zervakis, H. Amrouch, J. Henkel, and K. Siozios
+    title: Automated Design Approximation to Overcome Circuit Aging
+    year: 2021
+    venue: 'IEEE Transactions on Circuits and Systems I: Regular Papers'
+    volume: '68'
+    issue: '11'
+    pages: 4710–4721
+    doi: 10.1109/TCSI.2021.3106149
+  - authors: S. Salamin, G. Zervakis, Y. S. Chauhan, J. Henkel, and H. Amrouch
+    title: 'PROTON: Post-Synthesis Ferroelectric Thickness Optimization for NCFET Circuits'
+    year: 2021
+    venue: 'IEEE Transactions on Circuits and Systems I: Regular Papers'
+    volume: '68'
+    issue: '10'
+    pages: 4299–4309
+    doi: 10.1109/TCSI.2021.3103860
+  - authors: G. Zervakis, I. Anagnostopoulos, S. Salamin, Y. S. Chauhan, J. Henkel, and H. Amrouch
+    title: Impact of NCFET on Neural Network Accelerators
+    year: 2021
+    venue: IEEE Access
+    volume: '9'
+    pages: 43748–43758
+    doi: 10.1109/ACCESS.2021.3066335
+  - authors: G. Paim*, G. Zervakis*, G. Pahwa, Y. S. Chauhan, E. A. C. da Costa, S. Bampi, J. Henkel, and H. Amrouch
+    title: On the Resiliency of NCFET Circuits against Voltage Over-Scaling
+    year: 2021
+    venue: 'IEEE Transactions on Circuits and Systems I: Regular Papers'
+    volume: '68'
+    issue: '4'
+    pages: 1481–1492
+    doi: 10.1109/TCSI.2021.3058451
+    notes:
+    - Equal contribution
+  - authors: G. Zervakis, H. Amrouch, and J. Henkel
+    title: Design Automation of Approximate Circuits With Runtime Reconfigurable Accuracy
+    year: 2020
+    venue: IEEE Access
+    volume: '8'
+    pages: 53522–53538
+    doi: 10.1109/ACCESS.2020.2981395
+  - authors: H. Amrouch, G. Zervakis, S. Salamin, H. Kattan, I. Anagnostopoulos, and J. Henkel
+    title: NPU Thermal Management
+    year: 2020
+    venue: IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems
+    volume: '39'
+    issue: '11'
+    pages: 3842–3855
+    doi: 10.1109/TCAD.2020.3012753
+  - authors: Z. G. Tasoulas*, G. Zervakis*, I. Anagnostopoulos, H. Amrouch, and J. Henkel
+    title: Weight-Oriented Approximation for Energy-Efficient Neural Network Inference Accelerators
+    year: 2020
+    venue: 'IEEE Transactions on Circuits and Systems I: Regular Papers'
+    volume: '67'
+    issue: '12'
+    pages: 4670–4683
+    doi: 10.1109/TCSI.2020.3019460
+    notes:
+    - Equal contribution
+  - authors: G. Zervakis, S. Xydis, D. Soudris, and K. Pekmestzi
+    title: Multi-Level Approximate Accelerator Synthesis Under Voltage Island Constraints
+    year: 2019
+    venue: 'IEEE Transactions on Circuits and Systems II: Express Briefs'
+    volume: '66'
+    issue: '4'
+    pages: 607–611
+    doi: 10.1109/TCSII.2018.2869025
+  - authors: G. Zervakis, K. Koliogeorgi, D. Anagnostos, N. Zompakis, and K. Siozios
+    title: 'VADER: Voltage-Driven Netlist Pruning for Cross-Layer Approximate Arithmetic Circuits'
+    year: 2019
+    venue: IEEE Transactions on Very Large Scale Integration Systems
+    volume: '27'
+    issue: '6'
+    pages: 1460–1464
+    doi: 10.1109/TVLSI.2019.2900160
+  - authors: V. Leon, G. Zervakis, D. Soudris, and K. Pekmestzi
+    title: Approximate Hybrid High Radix Encoding for Energy-Efficient Inexact Multipliers
+    year: 2018
+    venue: IEEE Transactions on Very Large Scale Integration Systems
+    volume: '26'
+    issue: '3'
+    pages: 421–430
+    doi: 10.1109/TVLSI.2017.2767858
+  - authors: V. Leon, G. Zervakis, S. Xydis, D. Soudris, and K. Pekmestzi
+    title: Walking through the Energy-Error Pareto Frontier of Approximate Multipliers
+    year: 2018
+    venue: IEEE Micro
+    volume: '38'
+    issue: '4'
+    pages: 40–49
+    doi: 10.1109/MM.2018.043191124
+  - authors: G. Zervakis, F. Ntouskas, S. Xydis, D. Soudris, and K. Pekmestzi
+    title: 'VOSsim: A Framework for Enabling Fast Voltage Overscaling Simulation for Approximate Computing Circuits'
+    year: 2018
+    venue: IEEE Transactions on Very Large Scale Integration Systems
+    volume: '26'
+    issue: '6'
+    pages: 1204–1208
+    doi: 10.1109/TVLSI.2018.2803202
+  - authors: K. Tsoumanis, N. Axelos, N. Moschopoulos, G. Zervakis, and K. Pekmestzi
+    title: Pre-Encoded Multipliers Based on Non-Redundant Radix-4 Signed-Digit Encoding
+    year: 2016
+    venue: IEEE Transactions on Computers
+    volume: '65'
+    issue: '2'
+    pages: 670–676
+    doi: 10.1109/TC.2015.2428691
+  - authors: K. Tsoumanis, S. Xydis, G. Zervakis, and K. Pekmestzi
+    title: Flexible DSP Accelerator Architecture Exploiting Carry-Save Arithmetic
+    year: 2016
+    venue: IEEE Transactions on Very Large Scale Integration Systems
+    volume: '24'
+    issue: '1'
+    pages: 368–372
+    doi: 10.1109/TVLSI.2015.2390974
+  - authors: G. Zervakis, K. Tsoumanis, S. Xydis, D. Soudris, and K. Pekmestzi
+    title: Design-Efficient Approximate Multiplication Circuits Through Partial Product Perforation
+    year: 2016
+    venue: IEEE Transactions on Very Large Scale Integration Systems
+    volume: '24'
+    issue: '10'
+    pages: 3105–3117
+    doi: 10.1109/TVLSI.2016.2535398
+
+- title: Conferences
+  entries:
+  - authors: P. Vergos, T. Vergos, S. Meschkov, G. Zervakis, and M. B. Tahoori
+    title: 'FlexRF: Retention-Aware Compilation for Low-power and Area-Efficient Flexible Microprocessors using IGZO DRAM-style Register File'
+    year: 2027
+    venue: Asia and South Pacific Design Automation Conference (ASP-DAC)
+  - authors: J. J. Hernández Morales, G. Mentzos, F. Hannig, K. Balaskas, G. Zervakis, J. Henkel, and J. Teich
+    title: Co-Design of Multiplier-Free Matrix Decompositions for TinyML CNN Implementations on FPGAs
+    year: 2026
+    venue: ACM/IEEE International Conference on Compilers, Architecture, and Synthesis for Embedded Systems (CASES)
+  - authors: B. Sesli, J. J. Hernández Morales, G. Mentzos, F. Hannig, G. Zervakis, J. Henkel, and J. Teich
+    title: Co-Designing TinyML-powered Digital Health Applications for FPGA-based Wearable Devices
+    year: 2026
+    venue: IEEE International Conference on Omni-Layer Intelligent Systems (COINS)
+  - authors: P. Vergos, G. Zervakis, and M. B. Tahoori
+    title: 'TailoR-V: Automated Bespoke Flexible RISC-V Core Generation for Extreme-Edge IoT applications'
+    year: 2026
+    venue: IEEE/ACM International Conference on Computer Aided Design (ICCAD)
+  - authors: Z. Vasicek, V. Mrazek, and G. Zervakis
+    title: Reducing the Footprint of Approximate Ternary Neural Networks via Per-Neuron Input Permutations
+    year: 2026
+    venue: IFIP/IEEE International Conference on Very Large Scale Integration (VLSI-SoC)
+  - authors: M. Shatta, T. Gheshlaghi, P. Pal, G. Panagopoulos, G. Zervakis, and M. B. Tahoori
+    title: RBF-Driven Analog Neural Networks for Flexible Wearable Near-Sensor at the Extreme Edge
+    year: 2026
+    venue: ACM/IEEE Design Automation Conference (DAC)
+  - authors: G. Mentzos, T. P. Podimata, G. Zervakis, E. Z. Psarakis, and J. Henkel
+    title: 'Late-Breaking Results: Ultra Energy Efficient Personalized Glucose Prediction with RLS Implementation on a Tiny FPGA'
+    year: 2026
+    venue: ACM/IEEE Design Automation Conference (DAC)
+  - authors: G. Mentzos, K. Balaskas, G. Zervakis, and J. Henkel
+    title: 'Late Breaking Results: Towards Low-Latency TinyML via Regularized Activation Packing'
+    year: 2026
+    venue: ACM/IEEE Design Automation Conference (DAC)
+  - authors: F. Afentaki, P. C. Lozano Duarte, G. Zervakis, and M. B. Tahoori
+    title: Lightweight Fault Resilient Flexible Flash-ADCs
+    year: 2026
+    venue: IEEE International Symposium on On-Line Testing and Robust System Design (IOLTS)
+  - authors: M. Shatta, G. Panagopoulos, G. Zervakis, and M. B. Tahoori
+    title: 'Dual Op-Amps for Flexible Edge ICs: Ultra-Low-Power and Moderate-Bandwidth'
+    year: 2026
+    venue: IEEE International NEWCAS Conference
+  - authors: T. Vergos, P. Vergos, M. B. Tahoori, and G. Zervakis
+    title: Bespoke Co-processor for Energy-Efficient Health Monitoring on RISC-V-based Flexible Wearables
+    year: 2026
+    venue: Design, Automation & Test in Europe Conference & Exhibition (DATE)
+  - authors: F. Afentaki, M. Shatta, K. Balaskas, G. Panagopoulos, G. Zervakis, and M. B. Tahoori
+    title: Design and Optimization of Mixed-Kernel Mixed-Signal SVMs for Flexible Electronics
+    year: 2026
+    venue: Design, Automation & Test in Europe Conference & Exhibition (DATE)
+  - authors: G. Mentzos, V. A. Frey, K. Balaskas, G. Zervakis, and J. Henkel
+    title: 'R2T-Tiny: Runtime Reconfigurable Throughput-Optimized TinyML for Hybrid Inference Acceleration on FPGA SoCs'
+    year: 2025
+    venue: IEEE/ACM International Conference on Computer Aided Design (ICCAD)
+  - authors: M. Shatta, K. Balaskas, P. C. Lozano Duarte, G. Panagopoulos, M. B. Tahoori, and G. Zervakis
+    title: Feature-to-Classifier Co-Design for Mixed-Signal Smart Flexible Wearables for Healthcare at the Extreme Edge
+    year: 2025
+    venue: IEEE/ACM International Conference on Computer Aided Design (ICCAD)
+  - authors: F. Afentaki, S. S. Rakesh Nakkilla, K. Balaskas, P. C. Lozano Duarte, S. Jiang, G. Zervakis, F. Firouzi, K. Chakrabarty, and M. B.
+      Tahoori
+    title: Exploration of Low-Power Flexible Stress Monitoring Classifiers for Conformal Wearables
+    year: 2025
+    venue: IEEE/ACM International Symposium on Low Power Electronics and Design (ISLPED)
+    pages: 1–7
+    doi: 10.1109/ISLPED65674.2025.11261704
+  - authors: P. Vergos, T. Vergos, F. Afentaki, K. Balaskas, and G. Zervakis
+    title: Support Vector Machines Classification on Bendable RISC-V
+    year: 2025
+    venue: IEEE Computer Society Annual Symposium on VLSI (ISVLSI)
+    volume: '1'
+    pages: 1–6
+    doi: 10.1109/ISVLSI65124.2025.11130345
+  - authors: A. M. Panteleaki, K. Balaskas, G. Zervakis, H. Amrouch, and I. Anagnostopoulos
+    title: 'Carbon-Efficient 3D DNN Acceleration: Optimizing Performance and Sustainability'
+    year: 2025
+    venue: IEEE Computer Society Annual Symposium on VLSI (ISVLSI)
+    volume: '1'
+    pages: 1–6
+    doi: 10.1109/ISVLSI65124.2025.11130323
+  - authors: I. Sertaridis, S. Besias, F. Afentaki, K. Balaskas, and G. Zervakis
+    title: Compact Yet Highly Accurate Printed Classifiers Using Sequential Support Vector Machine Circuits
+    year: 2025
+    venue: IEEE International Symposium on Circuits and Systems (ISCAS)
+    doi: 10.1109/ISCAS56072.2025.11043485
+  - authors: V. Pentsos, O. Spantidi, G. Zervakis, and I. Anagnostopoulos
+    title: Leveraging Image Difficulty for Run-Time Adaptive DNN Inference on Embedded Devices
+    year: 2025
+    venue: IEEE International Symposium on Circuits and Systems (ISCAS)
+    doi: 10.1109/ISCAS56072.2025.11044244
+  - authors: O. Spantidi, G. Zervakis, J. Henkel, and I. Anagnostopoulos
+    title: Approximate Multiplier Mapping for Unfairness Mitigation in Energy-Efficient DNNs
+    year: 2025
+    venue: IEEE International Symposium on Circuits and Systems (ISCAS)
+    doi: 10.1109/ISCAS56072.2025.11043404
+  - authors: M. Tahoori, E. Özer, G. Zervakis, K. Balaskas, and P. Pal
+    title: Computing with Printed and Flexible Electronics
+    year: 2025
+    venue: IEEE European Test Symposium (ETS)
+    doi: 10.1109/ETS63895.2025.11049609
+  - authors: P. C. Lozano Duarte, A. Dube, G. Zervakis, M. Tahoori, and S. Nassif
+    title: Function Approximation Using Analog Building Blocks in Flexible Electronics
+    year: 2025
+    venue: International Symposium on Quality Electronic Design (ISQED)
+    doi: 10.1109/ISQED65160.2025.11014355
+  - authors: S. Besias, I. Sertaridis, F. Afentaki, K. Balaskas, and G. Zervakis
+    title: 'Late Breaking Results: Energy-Efficient Printed Machine Learning Classifiers with Sequential SVMs'
+    year: 2025
+    venue: Design, Automation & Test in Europe Conference & Exhibition (DATE)
+    doi: 10.23919/DATE64628.2025.10993127
+  - authors: A. M. Panteleaki, K. Balaskas, G. Zervakis, H. Amrouch, and I. Anagnostopoulos
+    title: 'Late Breaking Results: Leveraging Approximate Computing for Carbon-Aware DNN Accelerators'
+    year: 2025
+    venue: Design, Automation & Test in Europe Conference & Exhibition (DATE)
+    doi: 10.23919/DATE64628.2025.10993191
+  - authors: G. Saglam, F. Afentaki, G. Zervakis, and M. Tahoori
+    title: Sequential Printed Multilayer Perceptron Circuits for Super-TinyML Multi-Sensory Applications
+    year: 2025
+    venue: 30th Asia and South Pacific Design Automation Conference (ASP-DAC)
+    pages: 30–35
+    doi: 10.1145/3658617.3697634
+  - authors: P. C. Lozano Duarte, F. Afentaki, G. Zervakis, and M. Tahoori
+    title: Design and In-training Optimization of Binary Search ADC for Flexible Classifiers
+    year: 2025
+    venue: 30th Asia and South Pacific Design Automation Conference (ASP-DAC)
+    pages: 754–760
+    doi: 10.1145/3658617.3697715
+  - authors: V. Mrazek, A. Kokkinis, P. Papanikolaou, Z. Vasicek, K. Siozios, G. Tzimpragos, M. Tahoori, and G. Zervakis
+    title: Evolutionary Approximation of Ternary Neurons for On-sensor Printed Neural Networks
+    year: 2024
+    venue: IEEE/ACM International Conference on Computer Aided Design (ICCAD)
+    pages: 1–9
+    doi: 10.1145/3676536.3676728
+    github: https://github.com/ehw-fit/approximate-popcount
+  - authors: P. Pal, F. Afentaki, H. Zhao, G. Saglam, M. Hefenbrock, G. Zervakis, M. Beigl, and M. B. Tahoori
+    title: Fault Sensitivity Analysis of Printed Bespoke Multilayer Perceptron Classifiers
+    year: 2024
+    venue: IEEE European Test Symposium (ETS)
+    pages: 1–6
+    doi: 10.1109/ETS61313.2024.10567964
+    github: https://github.com/PrintedElectronics/Fault_Sensitivity_Analysis
+  - authors: J. Volk, P. Papanikolaou, G. Zervakis, and G. Tzimpragos
+    title: Synthesis of Resource-Efficient Superconducting Circuits with Clock-Free Alternating Logic
+    year: 2024
+    venue: ACM/IEEE Design Automation Conference (DAC)
+    pages: 1–6
+    doi: 10.1145/3649329.3657376
+  - authors: D. Masouros, A. Ferikoglou, G. Zervakis, S. Xydis, and D. Soudris
+    title: 'Late Breaking Results: Language-level QoR modeling for High-Level Synthesis'
+    year: 2024
+    venue: 61st ACM/IEEE Design Automation Conference (DAC)
+    pages: 1–2
+    doi: 10.1145/3649329.3663500
+  - authors: G. Armeniakos, P. Lozano Duarte, P. Pal, G. Zervakis, M. B. Tahoori, and D. Soudris
+    title: On-sensor Printed Machine Learning Classification via Bespoke ADC and Decision Tree Co-Design
+    year: 2024
+    venue: Design, Automation & Test in Europe Conference & Exhibition (DATE)
+    pages: 1–6
+    doi: 10.23919/DATE58400.2024.10546585
+    github: https://github.com/garmeniakos/Ax-Printed-ML-Classifiers
+  - authors: F. Afentaki, M. Hefenbrock, G. Zervakis, and M. B. Tahoori
+    title: Embedding Hardware Approximations in Discrete Genetic-based Training for Printed MLPs
+    year: 2024
+    venue: Design, Automation & Test in Europe Conference & Exhibition (DATE)
+    pages: 1–6
+    doi: 10.23919/DATE58400.2024.10546879
+    github: https://github.com/floAfentaki/Approximation-Techniques-Targeting-Printed-MLPs
+  - authors: F. Afentaki, G. Saglam, A. Kokkinis, K. Siozios, G. Zervakis, and M. B. Tahoori
+    title: Bespoke Approximation of Multiplication-Accumulation and Activation Targeting Printed Multilayer Perceptrons
+    year: 2023
+    venue: IEEE/ACM International Conference on Computer Aided Design (ICCAD)
+    pages: 1–9
+    doi: 10.1109/ICCAD57390.2023.10323613
+    github: https://github.com/floAfentaki/Approximation-Techniques-Targeting-Printed-MLPs
+  - authors: A. Kokkinis, G. Zervakis, K. Siozios, M. B. Tahoori, and J. Henkel
+    title: Hardware-Aware Automated Neural Minimization for Printed Multilayer Perceptrons
+    year: 2023
+    venue: Design, Automation & Test in Europe Conference & Exhibition (DATE)
+    pages: 1–2
+    doi: 10.23919/DATE56975.2023.10137161
+  - authors: J. Henkel, H. Li, A. Raghunathan, M. B. Tahoori, S. Venkataramani, X. Yang, and G. Zervakis
+    title: Approximate Computing and the Efficient Machine Learning Expedition
+    year: 2022
+    venue: 41st IEEE/ACM International Conference on Computer-Aided Design (ICCAD)
+    pages: 80:1–80:9
+    doi: 10.1145/3508352.3561105
+  - authors: G. Armeniakos, G. Zervakis, D. Soudris, M. B. Tahoori, and J. Henkel
+    title: Cross-Layer Approximation For Printed Machine Learning Circuits
+    year: 2022
+    venue: Design, Automation & Test in Europe Conference & Exhibition (DATE)
+    pages: 190–195
+    doi: 10.23919/DATE54114.2022.9774689
+    github: https://github.com/garmeniakos/Ax-Printed-ML-Classifiers
+    notes:
+    - Best paper candidate
+  - authors: K. Balaskas, G. Zervakis, K. Siozios, M. B. Tahoori, and J. Henkel
+    title: Approximate Decision Trees For Machine Learning Classification on Tiny Printed Circuits
+    year: 2022
+    venue: 23rd International Symposium on Quality Electronic Design (ISQED)
+    pages: 1–6
+    doi: 10.1109/ISQED54688.2022.9806213
+  - authors: O. Spantidi, G. Zervakis, I. Anagnostopoulos, H. Amrouch, and J. Henkel
+    title: Positive/Negative Approximate Multipliers for DNN Accelerators
+    year: 2021
+    venue: IEEE/ACM International Conference On Computer Aided Design (ICCAD)
+    pages: 1–9
+    doi: 10.1109/ICCAD51958.2021.9643491
+  - authors: G. Zervakis, O. Spantidi, I. Anagnostopoulos, H. Amrouch, and J. Henkel
+    title: Control Variate Approximation for DNN Accelerators
+    year: 2021
+    venue: 58th ACM/IEEE Design Automation Conference (DAC)
+    pages: 481–486
+    doi: 10.1109/DAC18074.2021.9586092
+  - authors: G. Zervakis, H. Saadat, H. Amrouch, A. Gerstlauer, S. Parameswaran, and J. Henkel
+    title: 'Approximate Computing for ML: State-of-the-art, Challenges and Visions'
+    year: 2021
+    venue: 26th Asia and South Pacific Design Automation Conference (ASP-DAC)
+    pages: 189–196
+    doi: 10.1145/3394885.3431632
+  - authors: M. Yayla, K.-H. Chen, G. Zervakis, J. Henkel, J.-J. Chen, and H. Amrouch
+    title: 'FeFET and NCFET for Future Neural Networks: Visions and Opportunities'
+    year: 2021
+    venue: Design, Automation & Test in Europe Conference & Exhibition (DATE)
+    pages: 300–305
+    doi: 10.23919/DATE51398.2021.9473978
+  - authors: S. Salamin, G. Zervakis, O. Spantidi, I. Anagnostopoulos, J. Henkel, and H. Amrouch
+    title: Reliability-Aware Quantization for Anti-Aging NPUs
+    year: 2021
+    venue: Design, Automation & Test in Europe Conference & Exhibition (DATE)
+    pages: 1460–1465
+    doi: 10.23919/DATE51398.2021.9474094
+  - authors: D. Masouros, K. Koliogeorgi, G. Zervakis, A. Kosvyra, A. Chytas, S. Xydis, I. Chouvarda, and D. Soudris
+    title: 'Co-design Implications of Cost-effective On-demand Acceleration for Cloud Healthcare Analytics: The AEGLE approach'
+    year: 2019
+    venue: Design, Automation & Test in Europe Conference & Exhibition (DATE)
+    pages: 622–625
+    doi: 10.23919/DATE.2019.8714934
+  - authors: N. Zompakis, D. Anagnostos, K. Koliogeorgi, G. Zervakis, and K. Siozios
+    title: A Design Flow Framework for Fully-Connected Neural Networks Rapid Prototyping
+    year: 2019
+    venue: International Conference on Omni-Layer Intelligent Systems
+    pages: 44–49
+    doi: 10.1145/3312614.3312628
+  - authors: K. Koliogeorgi, G. Zervakis, D. Anagnostos, N. Zompakis, and K. Siozios
+    title: Optimizing SVM Classifier Through Approximate and High Level Synthesis Techniques
+    year: 2019
+    venue: 8th International Conference on Modern Circuits and Systems Technologies (MOCAST)
+    pages: 1–4
+    doi: 10.1109/MOCAST.2019.8742064
+  - authors: K. Koliogeorgi, D. Masouros, G. Zervakis, S. Xydis, T. Becker, G. Gaydadjiev, and D. Soudris
+    title: AEGLE's Cloud Infrastructure for Resource Monitoring and Containerized Accelerated Analytics
+    year: 2017
+    venue: IEEE Computer Society Annual Symposium on VLSI (ISVLSI)
+    pages: 362–367
+    doi: 10.1109/ISVLSI.2017.70
+  - authors: G. Zervakis, S. Xydis, and D. Soudris
+    title: 'Performance-power exploration of software-defined big data analytics: The AEGLE cloud backend'
+    year: 2016
+    venue: 'International Conference on Embedded Computer Systems: Architectures, Modeling and Simulation (SAMOS)'
+    pages: 312–319
+    doi: 10.1109/SAMOS.2016.7818364
+  - authors: N. Eftaxiopoulos, N. Axelos, G. Zervakis, K. Tsoumanis, and K. Pekmestzi
+    title: 'Delta DICE: A Double Node Upset resilient latch'
+    year: 2015
+    venue: IEEE 58th International Midwest Symposium on Circuits and Systems (MWSCAS)
+    pages: 1–4
+    doi: 10.1109/MWSCAS.2015.7282145
+  - authors: G. Zervakis, S. Xydis, K. Tsoumanis, D. Soudris, and K. Pekmestzi
+    title: Hybrid approximate multiplier architectures for improved power-accuracy trade-offs
+    year: 2015
+    venue: IEEE/ACM International Symposium on Low Power Electronics and Design (ISLPED)
+    pages: 79–84
+    doi: 10.1109/ISLPED.2015.7273494
+  - authors: G. Zervakis, K. Tsoumanis, S. Xydis, N. Axelos, and K. Pekmestzi
+    title: 'Approximate Multiplier Architectures Through Partial Product Perforation: Power-Area Tradeoffs Analysis'
+    year: 2015
+    venue: 25th Edition on Great Lakes Symposium on VLSI (GLSVLSI)
+    pages: 229–232
+    doi: 10.1145/2742060.2742109
+  - authors: G. Zervakis, N. Eftaxiopoulos, K. Tsoumanis, N. Axelos, and K. Pekmestzi
+    title: A high radix montgomery multiplier with concurrent error detection
+    year: 2014
+    venue: 9th International Design and Test Symposium (IDT)
+    pages: 199–204
+    doi: 10.1109/IDT.2014.7038613
+  - authors: N. Eftaxiopoulos, G. Zervakis, K. Pekmestzi, and C. Efstathiou
+    title: High performance MAC designs
+    year: 2014
+    venue: 9th International Design and Test Symposium (IDT)
+    pages: 30–35
+    doi: 10.1109/IDT.2014.7038582
+  - authors: N. Eftaxiopoulos, N. Axelos, G. Zervakis, K. Tsoumanis, and K. Pekmestzi
+    title: An independent dual gate SOI FinFET soft-error resilient memory cell
+    year: 2014
+    venue: 9th International Design and Test Symposium (IDT)
+    pages: 39–44
+    doi: 10.1109/IDT.2014.7038584
+  - authors: N. Axelos, N. Eftaxiopoulos, G. Zervakis, K. Tsoumanis, and K. Pekmestzi
+    title: 'FF-DICE: An 8T soft-error tolerant cell using Independent Dual Gate SOI FinFETs'
+    year: 2014
+    venue: IEEE 20th International On-Line Testing Symposium (IOLTS)
+    pages: 200–201
+    doi: 10.1109/IOLTS.2014.6873696
+  - authors: G. Zervakis, N. Eftaxiopoulos, K. Tsoumanis, N. Axelos, and K. Pekmestzi
+    title: A segmentation-based BISR scheme
+    year: 2014
+    venue: 19th Asia and South Pacific Design Automation Conference (ASP-DAC)
+    pages: 652–657
+    doi: 10.1109/ASPDAC.2014.6742965
+  - authors: N. Eftaxiopoulos-Sarris, G. Zervakis, K. Tsoumanis, and K. Pekmestzi
+    title: A radiation tolerant and self-repair memory cell
+    year: 2013
+    venue: IEEE 19th International On-Line Testing Symposium (IOLTS)
+    pages: 210–215
+    doi: 10.1109/IOLTS.2013.6604081
+
+- title: Book chapters
+  entries:
+  - authors: V. Mrazek and G. Zervakis
+    title: 'TinyML at the Extreme Far Edge: Optimizing Neural Network Circuits for Printed On-Sensor Classification'
+    year: 2027
+    venue: 'Handbook of Embedded Machine Learning: Cyber-Physical, IoT, and Edge Computing'
+    editors: S. Pasricha and M. Shafique
+    publisher: Springer Nature Switzerland
+  - authors: G. Zervakis, M. B. Tahoori, and J. Henkel
+    title: 'Hardware–Software Co-design for Ultra-Resource-Constrained Embedded Machine Learning Inference: A Printed Electronics Use Case'
+    year: 2024
+    venue: 'Embedded Machine Learning for Cyber-Physical, IoT, and Edge Computing: Software Optimizations and Hardware/Software Codesign'
+    editors: S. Pasricha and M. Shafique
+    publisher: Springer Nature Switzerland
+    pages: 201–224
+    doi: 10.1007/978-3-031-39932-9_8
+  - authors: G. Zervakis, I. Anagnostopoulos, H. Amrouch, and J. Henkel
+    title: Enabling Efficient Inference of Convolutional Neural Networks via Approximation
+    year: 2022
+    venue: Approximate Computing
+    editors: W. Liu and F. Lombardi
+    publisher: Springer International Publishing
+    pages: 429–450
+    doi: 10.1007/978-3-030-98347-5_17
+  - authors: G. Zervakis
+    title: 'On Accelerating Data Analytics: An Introduction to the Approximate Computing Technique'
+    year: 2019
+    venue: 'IoT for Smart Grids: Design Challenges and Paradigms'
+    editors: K. Siozios, D. Anagnostos, D. Soudris, and E. Kosmatopoulos
+    publisher: Springer International Publishing
+    pages: 163–180
+    doi: 10.1007/978-3-030-03640-9_9
+  - authors: C. Kachris, E. Koromilas, I. Stamelos, G. Zervakis, S. Xydis, and D. Soudris
+    title: Energy-Efficient Acceleration of Spark Machine Learning Applications on FPGAs
+    year: 2019
+    venue: Hardware Accelerators in Data Centers
+    editors: C. Kachris, B. Falsafi, and D. Soudris
+    publisher: Springer International Publishing
+    pages: 87–107
+    doi: 10.1007/978-3-319-92792-3_5
+
+- title: Workshops
+  entries:
+  - authors: I. Sertaridis, V. Mrazek, and G. Zervakis
+    title: Highly Accurate Printed Sequential SVMs
+    year: 2026
+    venue: The 14th Prague Embedded Systems Workshop
+    notes:
+    - To appear
+    - With proceedings
+  - authors: I. Loudaros, G. Zervakis, D. Soudris, and D. Masouros
+    title: Leveraging DVFS for Energy-Efficient and QoS-aware Edge Video Analytics
+    year: 2025
+    venue: 2nd International Workshop on MetaOS for the Cloud-Edge-IoT Continuum (MECC), part of EuroSys
+    pages: 26–32
+    doi: 10.1145/3721889.3721925
+    notes:
+    - Peer-reviewed with proceedings
+  - authors: G. Zervakis, S. Xydis, V. Tsoutsouras, D. Soudris, and K. Pekmestzi
+    title: Multi-level approximation for Inexact accelerator synthesis under voltage island constraints
+    year: 2016
+    venue: Workshop on Approximate Computing (AC), part of ESWEEK
+    notes:
+    - Peer-reviewed
