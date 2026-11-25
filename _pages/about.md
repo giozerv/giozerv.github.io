@@ -1,7 +1,8 @@
 ---
 permalink: /
-title: "About"
-excerpt: "About me"
+title: "Georgios Zervakis"
+heading: "About"
+description: "Assistant Professor at the School of Electrical and Computer Engineering, National Technical University of Athens."
 author_profile: true
 redirect_from: 
   - /about/
