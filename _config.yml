@@ -83,7 +83,9 @@ author:
   name             : "Georgios Zervakis"
   avatar           : "georgios_zervakis.jpg"
   bio              : "Assistant Professor<br/> School of ECE, NTUA"
-  location         : "New ECE Buildings, Office B1.7"
+  location         : "New ECE Buildings"
+  office           : "Office B1.7"
+  location_url     : "https://maps.app.goo.gl/1BzT58advhg2dX7u5"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=hZtfPegAAAAJ&hl=en"
