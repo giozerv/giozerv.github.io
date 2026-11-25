@@ -48,28 +48,26 @@ h3 {
 
 
 - [Undergraduate Courses](#undergraduate-courses)
-- [Available Dimploma Theses](#available-dimploma-theses)
+- [Postgraduate Courses](#postgraduate-courses)
+- [Available Diploma Theses](#available-diploma-theses)
     1. [Approximate DNN Accelerators](#approximate-dnn-accelerators) (several topics)
     1. [Smart Flexible Circuits](#smart-flexible-circuits) (several topics)
     1. [TinyML on Tiny Devices](#tinyml-on-tiny-devices) (several topics)
-    1. [Design and Evaluation of a Vector Functional Unit](#design-and-evaluation-of-a-vector-functional-unit)
-- [Ongoing Dimploma Theses](#ongoing-dimploma-theses)
-- [Completed Dimploma Theses](#completed-dimploma-theses)
 
 
 ## Undergraduate Courses
-### Winter semester
 
-* [Digital Design Lab (CEID_23Y211)](https://www.ceid.upatras.gr/course/ergastirio-logikou-sxediasmou/), Compulsory, 3rd semester, [eclass](https://eclass.upatras.gr/courses/CEID1414/)
-* [Introduction to VLSI (CEID_ΝΕ4648)](https://www.ceid.upatras.gr/course/eisagogi-se-vlsi/), Core Elective, [eclass](https://eclass.upatras.gr/courses/CEID1256/)
+* [Logic Design of Digital Systems](https://www.ece.ntua.gr/en/education/undergraduate/courses?courseId=3353), 1st semester
+* [Introductory Lab of Electronics and Telecommunications](https://www.ece.ntua.gr/en/education/undergraduate/courses?courseId=3386), 3rd semester
+* [Digital Systems Laboratory](https://www.ece.ntua.gr/en/education/undergraduate/courses?courseId=3236), 6th semester
+* [Introduction to VLSI Systems Design](https://www.ece.ntua.gr/en/education/undergraduate/courses?courseId=3256), 7th semester
 
-### Summer Semester
+## Postgraduate Courses
 
-* [Digital Design (CEID_NΝY107)](https://www.ceid.upatras.gr/course/logiki-schediasi/), Compulsory, 2nd semester, [eclass](https://eclass.upatras.gr/courses/CEID1262/)
-* [VLSI Systems Design (CEID_NE5647)](https://www.ceid.upatras.gr/course/schediasmos-systimaton-vlsi/), Core Elective, [eclass](https://eclass.upatras.gr/courses/CEID1268/)
+* [Advanced topics of Digital Systems Design](https://www.ece.ntua.gr/en/education/doctoral/courses?courseId=670), spring semester
 
 
-## Available Dimploma Theses
+## Available Diploma Theses
 
 ### Approximate DNN Accelerators
 <img style="float: right;" width= "400px" src="/images/axml.png">
@@ -181,23 +179,3 @@ href="https://doi.org/10.1109/DAC18074.2021.9586232">10.1109/DAC18074.2021.95862
 Engineering, with a strong understanding of Computer Architecture, Microarchitecture/ISA, and/or Hardware Design. 
 Proficiency in Python, and either C/C++ or Verilog and RTL simulation is necessary.<br>
 **Type of work**: This role is designed to enrich your learning while providing hands-on experience. As such, the work is divided into 25% literature study to enhance your theoretical knowledge and 75% hands-on RTL development or C development depending on the end platform (i.e., MCU or FPGA).
-
-
-
-
-## Ongoing Dimploma Theses
-* Spyridon Papageorgiou, "Hardware-Aware Optimization of DNNs for Analog In-Memory Accelerators".
-* Dorita Podimata, "Glucose prediction on an ESP32 microcontroller".
-
-
-## Completed Dimploma Theses
-
-* Ioannis Loudaros, "Energy Efficient Video Analytics on Heterogeneous Edge Clusters," Dec. 2025 \[[online](https://nemertes.library.upatras.gr/items/a0b4a64d-7f1a-4e44-ab57-34624060420a)\]. 
-* Nikolaos Kapareliotis, "Verification methodologies improvements of Receiver blocks in a very high speed Serdes context," Jul. 2025 \[[online](https://nemertes.library.upatras.gr/items/24286561-93ab-44aa-ae57-9e2df9336623)\].
-* Ilias Sertaridis, "Design and modeling of parallel support vector machine architecture in printed electronics," Jul. 2025 \[[online](https://nemertes.library.upatras.gr/items/c665777a-2735-4cc0-a053-e307d59754c9)\].
-* Spyridon Mpesias, "Design and modeling of a sequential architecture of support vector machines in printed electronics"," Jul. 2025 \[[online](https://nemertes.library.upatras.gr/items/8824ea38-cfdc-4abe-b9d2-6af71189baf9)\].
-* Polykarpos Vergos, "Development and Evaluation of a Bendable RISC-V Microprocessor with Machine Learning Capabilities," Mar. 2025 \[[online](https://nemertes.library.upatras.gr/items/6539795d-464b-4c94-ab26-ce424d1ed46e)\].
-* Theofanis Vergos, "Architecture and approximation exploration for Feed Forward Equalizer Circuit," Mar. 2025 \[[online](https://nemertes.library.upatras.gr/items/1d0039d9-1932-476d-b9a5-a40847b219f7)\].
-* Angelos Koumaniotis, "Verification methodologies improvements of Transmitter blocks in a very high speed Serdes context," Dec. 2024, \[[online](https://nemertes.library.upatras.gr/items/de0abfc6-db71-416a-b2d4-3dfdb4d6d548)\].
-* Vassilis Milionis, "DNN-based UAV Tracking in AirSim," Oct. 2023, \[[online](https://nemertes.library.upatras.gr/items/d62e9ef4-e23c-4c8f-9593-020fa58270f5)\].
-* Panagiotis Papanikolaou, "Binary Neural Networks on Printed Electronics," Jul. 2023, \[[online](https://nemertes.library.upatras.gr/items/bac833a2-191d-492b-8235-a7c8d6e41687)\].
